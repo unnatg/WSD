@@ -4,17 +4,17 @@ WSD - Word-sense disambiguation is an open problem in Natural Language Processin
 The major purpose of WSD technique is to accurately understand the meaning of a specific word in a text. We have proposed a method to find ambiguous words in a sentence employing a supervised machine learning approach. If the word has different meaning in both the sentences then it is domain dependent otherwise domain independent. 
 
 
-Step1: Import all the required libraries
+## Step1: Import all the required libraries
 
-Step2: Generate word embeddings, glove as well as ROBERTA
-	- Lemmatize sentence1 and sentence2
-	- Drop all the irrelevant columns except Ambigous_Word, Sentence1, Sentence2. Store it as X
-	- Convert the labels column into 1 or 0 and store it as y.
-	- Perform train_test_split()
-	- Store the data in the pickle file.
-	- Store the whole data (X, y) in the pickle file.
+## Step2: Generate word embeddings, glove as well as ROBERTA  
+	- Lemmatize sentence1 and sentence2  
+	- Drop all the irrelevant columns except Ambigous_Word, Sentence1, Sentence2. Store it as X  
+	- Convert the labels column into 1 or 0 and store it as y.  
+	- Perform train_test_split()  
+	- Store the data in the pickle file.  
+	- Store the whole data (X, y) in the pickle file.  
 
-Load the data from the pickle file
+Load the data from the pickle file  
 	Pickle file format:
 		data = {
             # Training Data
@@ -42,13 +42,13 @@ Load the data from the pickle file
             "labels": labels  
         }  
 
-Step3: Train a machine learning model (Random Forest, Extra Trees Classifier and Support Vector Classifier), with the following format:
+## Step3: Train a machine learning model (Random Forest, Extra Trees Classifier and Support Vector Classifier), with the following format:  
 		  input_data=<ambigous_word_embeddings, sentence1_embeddings, sentence2_embeddings>  
 		  input_data=<GloVe Vector Embeddings,  ROBERTA,              ROBERTA>  
 
-Step4: Evaluate the model using testing data and development data. Evaluation metrics = accuracy, precision, recall, f1 score  
+## Step4: Evaluate the model using testing data and development data. Evaluation metrics = accuracy, precision, recall, f1 score  
 
-Step5: Prediction phase:  
+## Step5: Prediction phase:  
 		  - Input two sentences from the user.  
 		  - Convert the sentences to lowercase. Remove stopwords  
 	          - Lemmatize the words  
