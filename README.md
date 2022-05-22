@@ -18,42 +18,39 @@ Load the data from the pickle file
 	Pickle file format:
 		data = {
             # Training Data
-            "training_sentences1": training_sentences1,
-            "training_embeddings1": self.training_embeddings1,
-            "training_sentences2": training_sentences2,
-            "training_embeddings2": self.training_embeddings2,
-            "train_ambiguous_word": training_ambiguous_words,
-            "train_ambiguous_word_embeddings": self.training_ambiguous_word_embeddings,
-            "training_labels": self.y_train,
-            # Testing Data
-            "testing_sentences1": testing_sentences1,
-            "testing_embeddings1": self.testing_embeddings1,
-            "testing_sentences2": testing_sentences2,
-            "testing_embeddings2": self.testing_embeddings2,
-            "test_ambiguous_word": testing_ambiguous_words,
-            "test_ambiguous_word_embeddings": self.testing_ambiguous_word_embeddings,
-            "testing_labels": self.y_test,
-            # Complete Data
-            "sentences1": sentences1,
-            "sentences_embeddings1": self.embeddings1,
-            "sentences2": sentences2,
-            "sentences_embeddings2": self.embeddings2,
-            "ambiguous_word": ambiguous_word,
-            "labels": labels
-        }
+            "training_sentences1": training_sentences1,  
+            "training_embeddings1": self.training_embeddings1,  
+            "training_sentences2": training_sentences2,  
+            "training_embeddings2": self.training_embeddings2,  
+            "train_ambiguous_word": training_ambiguous_words,  
+            "train_ambiguous_word_embeddings": self.training_ambiguous_word_embeddings,  
+            "training_labels": self.y_train,  
+            # Testing Data  
+            "testing_sentences1": testing_sentences1,  
+            "testing_embeddings1": self.testing_embeddings1,  
+            "testing_sentences2": testing_sentences2,  
+            "testing_embeddings2": self.testing_embeddings2,  
+            "test_ambiguous_word": testing_ambiguous_words,  
+            "test_ambiguous_word_embeddings": self.testing_ambiguous_word_embeddings,  
+            "testing_labels": self.y_test,  
+            # Complete Data  
+            "sentences1": sentences1,  
+            "sentences_embeddings1": self.embeddings1,  
+            "sentences2": sentences2,  
+            "sentences_embeddings2": self.embeddings2,  
+            "ambiguous_word": ambiguous_word,  
+            "labels": labels  
+        }  
 
 Step3: Train a machine learning model (Random Forest, Extra Trees Classifier and Support Vector Classifier), with the following format:
-		  input_data=<ambigous_word_embeddings, sentence1_embeddings, sentence2_embeddings>
-		  input_data=<GloVe Vector Embeddings,  ROBERTA,              ROBERTA>
+		  input_data=<ambigous_word_embeddings, sentence1_embeddings, sentence2_embeddings>  
+		  input_data=<GloVe Vector Embeddings,  ROBERTA,              ROBERTA>  
 
-Step4: Evaluate the model using testing data and development data. Evaluation metrics = accuracy, precision, recall, f1 score
+Step4: Evaluate the model using testing data and development data. Evaluation metrics = accuracy, precision, recall, f1 score  
 
-Step5: Prediction phase:
-		  - Input two sentences from the user.
-		  - Convert the sentences to lowercase. Remove stopwords
-		  - Extract nous and verbs from the sentence by using nltk.pos_tag()
-		  - For noun and verb in the nouns and verbs list:
-			a) Convert sentences to lowercase.
-			b) Lemmatize the words
-			c) Get glove embedding for noun and the ROBERTA embeddings for sentences and predict using the classifier whether T or F.
+Step5: Prediction phase:  
+		  - Input two sentences from the user.  
+		  - Convert the sentences to lowercase. Remove stopwords  
+	          - Lemmatize the words  
+	          - Get glove embedding for noun and the ROBERTA embeddings for sentences and predict using the classifier whether T or F.  
 		  
