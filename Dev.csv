@@ -1,0 +1,639 @@
+,Ambigous_word,POS_Tag,Ambigous_word_index,Sentence1,Sentence2,Lemmatized_Sentence1,Lemmatized_Sentence2,Label
+0,board,N,"['2', '2']",room and board ,he nailed boards across the windows ,room and board ,he nailed board across the window ,F
+1,circulate,V,"['0', '4']",circulate a rumor ,this letter is being circulated among the faculty ,circulate a rumor ,this letter is being circulated among the faculty ,F
+2,hook,V,"['0', '1']",hook a fish ,he hooked a snake accidentally  and was so scared he dropped his rod into the water ,hook a fish ,he hooked a snake accidentally  and wa so scared he dropped his rod into the water ,T
+3,recreation,N,"['1', '9']",for recreation he wrote poetry and solved crossword puzzles ,drug abuse is often regarded as a form of recreation ,for recreation he wrote poetry and solved crossword puzzle ,drug abuse is often regarded a a form of recreation ,T
+4,domesticity,N,"['4', '6']",making a hobby of domesticity ,a royal family living in unpretentious domesticity ,making a hobby of domesticity ,a royal family living in unpretentious domesticity ,F
+5,acquisition,N,"['3', '7']",the child s acquisition of language ,that graphite tennis racquet is quite an acquisition ,the child s acquisition of language ,that graphite tennis racquet is quite an acquisition ,F
+6,meeting,N,"['3', '1']",there was no meeting of minds ,the meeting elected a chairperson ,there wa no meeting of mind ,the meeting elected a chairperson ,F
+7,nude,N,"['4', '4']",they swam in the nude ,the marketing rule  nude sells  spread from verbal to visual mainstream media in the 20th century ,they swam in the nude ,the marketing rule  nude sell  spread from verbal to visual mainstream medium in the 20th century ,F
+8,mark,N,"['4', '8']",he left an indelible mark on the american theater ,it was in london that he made his mark ,he left an indelible mark on the american theater ,it wa in london that he made his mark ,T
+9,association,N,"['7', '2']",conditioning is a form of learning by association ,many close associations with england ,conditioning is a form of learning by association ,many close association with england ,F
+10,inclination,N,"['2', '1']",the alkaline inclination of the local waters ,an inclination of his head indicated his agreement ,the alkaline inclination of the local water ,an inclination of his head indicated his agreement ,F
+11,glaze,V,"['0', '2']",glaze the bread with eggwhite ,the potter glazed the dishes ,glaze the bread with eggwhite ,the potter glazed the dish ,T
+12,piggyback,V,"['3', '1']",an amendment to piggyback the current law ,he piggybacked her child so she could see the show ,an amendment to piggyback the current law ,he piggybacked her child so she could see the show ,F
+13,pick,V,"['1', '3']",to pick rags ,do nt always pick on your little brother ,to pick rag ,do nt always pick on your little brother ,F
+14,belabor,V,"['0', '2']",belabor the obvious ,she was belabored by her fellow students ,belabor the obvious ,she wa belabored by her fellow student ,F
+15,bell,V,"['0', '2']",bell cows ,who will bell the cat ,bell cow ,who will bell the cat ,T
+16,tear,N,"['12', '3']",he took the manuscript in both hands and gave it a mighty tear ,there were big tears rolling down lisa s cheeks ,he took the manuscript in both hand and gave it a mighty tear ,there were big tear rolling down lisa s cheek ,F
+17,kill,V,"['0', '1']",kill the engine ,he killed the ball ,kill the engine ,he killed the ball ,F
+18,analyze,V,"['0', '2']",analyze your real motives ,the inspector analyzed the building s soundness ,analyze your real motif ,the inspector analyzed the building s soundness ,T
+19,lecture,V,"['3', '1']",did you ever lecture at harvard ,she lectured to the class about her travels ,did you ever lecture at harvard ,she lectured to the class about her travel ,T
+20,rehearsal,N,"['1', '4']",a rehearsal will be held the day before the wedding ,he missed too many rehearsals ,a rehearsal will be held the day before the wedding ,he missed too many rehearsal ,T
+21,forge,V,"['3', '1']",we decided to forge ahead with our plans even though our biggest underwriter backed out ,he forged ahead ,we decided to forge ahead with our plan even though our biggest underwriter backed out ,he forged ahead ,T
+22,falsity,N,"['9', '7']",the belief that the world is flat is a falsity ,argument could not determine its truth or falsity ,the belief that the world is flat is a falsity ,argument could not determine it truth or falsity ,T
+23,assurance,N,"['1', '1']",an assurance of help when needed ,his assurance in his superiority did not make him popular ,an assurance of help when needed ,his assurance in his superiority did not make him popular ,F
+24,branch,N,"['1', '2']",a branch of congress ,we have branches in all major suburbs ,a branch of congress ,we have branch in all major suburb ,T
+25,fuzz,N,"['9', '1']",he tried to clear his head of the whisky fuzz ,peach fuzz ,he tried to clear his head of the whisky fuzz ,peach fuzz ,F
+26,risk,V,"['3', '1']",i can not risk smoking ,why risk your life ,i can not risk smoking ,why risk your life ,T
+27,chemistry,N,"['1', '1']",the chemistry of indigo ,the chemistry of iron ,the chemistry of indigo ,the chemistry of iron ,T
+28,char,N,"['10', '11']", among other native delicacies  they give you fresh char   , i had to scrub the kitchen today  because the char could nt come  , among other native delicacy  they give you fresh char   , i had to scrub the kitchen today  because the char could nt come  ,F
+29,response,N,"['4', '1']",this situation developed in response to events in africa ,his responses have slowed with age ,this situation developed in response to event in africa ,his response have slowed with age ,F
+30,excuse,N,"['5', '4']",that thing is a poor excuse for a gingerbread man  has nt anyone taught you how to bake ,he s a sorry excuse of a doctor ,that thing is a poor excuse for a gingerbread man  has nt anyone taught you how to bake ,he s a sorry excuse of a doctor ,T
+31,bondage,N,"['5', '5']",he sought release from his bondage to satan ,a self freed from the bondage of time ,he sought release from his bondage to satan ,a self freed from the bondage of time ,T
+32,catch,N,"['1', '3']",the catch was only 10 fish ,he shared his catch with the others ,the catch wa only 10 fish ,he shared his catch with the others ,F
+33,shadiness,N,"['4', '1']",there s too much shadiness to take good photographs ,the shadiness of their transactions ,there s too much shadiness to take good photograph ,the shadiness of their transaction ,F
+34,passage,N,"['2', '6']",the outward passage took 10 days ,she struggled to play the difficult passages ,the outward passage took 10 day ,she struggled to play the difficult passage ,F
+35,daughter,N,"['13', '1']",i already have a son  so i would like to have a daughter ,her daughter cared for her in her old age ,i already have a son  so i would like to have a daughter ,her daughter cared for her in her old age ,T
+36,hold,V,"['1', '0']",please hold a table at maxim s ,hold a table for us at 700 ,please hold a table at maxim s ,hold a table for u at 700 ,T
+37,banish,V,"['0', '0']",banish bad thoughts ,banish gloom ,banish bad thought ,banish gloom ,T
+38,sense,N,"['3', '2']",a keen musical sense ,a good sense of timing ,a keen musical sense ,a good sense of timing ,T
+39,opinion,N,"['2', '6']",in my opinion  white chocolate is better than milk chocolate ,i would like to know your opinions on the new systems ,in my opinion  white chocolate is better than milk chocolate ,i would like to know your opinion on the new system ,T
+40,deed,N,"['3', '3']",he signed the deed ,i inherited the deed to the house ,he signed the deed ,i inherited the deed to the house ,T
+41,question,N,"['8', '3']",his claim to the property has come under question ,he obeyed without question ,his claim to the property ha come under question ,he obeyed without question ,T
+42,distribute,V,"['4', '2']",the publisher wants to distribute the book in asia ,the function distributes the values evenly ,the publisher want to distribute the book in asia ,the function distributes the value evenly ,F
+43,return,V,"['0', '0']",return her love ,return a compliment ,return her love ,return a compliment ,T
+44,officer,N,"['3', '4']",he is an officer of the court ,the club elected its officers for the coming year ,he is an officer of the court ,the club elected it officer for the coming year ,T
+45,clutch,V,"['1', '1']",to clutch power ,she clutched her purse ,to clutch power ,she clutched her purse ,T
+46,dissipation,N,"['1', '1']",the dissipation of the mist ,mindless dissipation of natural resources ,the dissipation of the mist ,mindless dissipation of natural resource ,F
+47,portfolio,N,"['9', '3']",he remembered her because she was carrying a large portfolio ,he holds the portfolio for foreign affairs ,he remembered her because she wa carrying a large portfolio ,he hold the portfolio for foreign affair ,F
+48,play,N,"['3', '5']",they gave full play to the artist s talent ,it was all done in play ,they gave full play to the artist s talent ,it wa all done in play ,F
+49,brush,N,"['6', '4']",she gave her hair a quick brush ,the dentist recommended two brushes a day ,she gave her hair a quick brush ,the dentist recommended two brush a day ,T
+50,rise,N,"['6', '1']",they asked for a 10  rise in rates ,the rising of the holy ghost ,they asked for a 10  rise in rate ,the rising of the holy ghost ,F
+51,studio,N,"['1', '5']",his studio was cramped when he began as an artist ,you do nt need a studio to make a passport photograph ,his studio wa cramped when he began a an artist ,you do nt need a studio to make a passport photograph ,T
+52,cushion,V,"['1', '0']",to cushion a blow ,cushion the blow ,to cushion a blow ,cushion the blow ,T
+53,plenty,N,"['2', '4']",there was plenty of food for everyone ,it must have cost plenty ,there wa plenty of food for everyone ,it must have cost plenty ,F
+54,look,N,"['1', '1']",a look of triumph ,his look was fixed on her eyes ,a look of triumph ,his look wa fixed on her eye ,F
+55,recrudescence,N,"['1', '1']",a recrudescence of racism ,a recrudescence of the symptoms ,a recrudescence of racism ,a recrudescence of the symptom ,T
+56,metadata,N,"['3', '4']",most websites contain metadata to tell the computer how to lay the words out on the screen ,a library catalog is metadata because it describes publications ,most website contain metadata to tell the computer how to lay the word out on the screen ,a library catalog is metadata because it describes publication ,T
+57,streak,N,"['1', '4']",a streak of wildness ,he has a stubborn streak ,a streak of wildness ,he ha a stubborn streak ,T
+58,elapse,V,"['5', '2']",he allowed a month to elapse before beginning the work ,several days elapsed before they met again ,he allowed a month to elapse before beginning the work ,several day elapsed before they met again ,T
+59,corner,N,"['5', '2']",he tripled to the rightfield corner ,the southeastern corner of the mediterranean ,he tripled to the rightfield corner ,the southeastern corner of the mediterranean ,T
+60,average,N,"['3', '6']",he is about average in height ,the snowfall this month is below average ,he is about average in height ,the snowfall this month is below average ,T
+61,replicate,V,"['11', '0']",on entering a host cell  a virus will start to replicate ,replicate the cell ,on entering a host cell  a virus will start to replicate ,replicate the cell ,T
+62,wait,V,"['3', '0']",she used to wait down at the dew drop inn ,wait here until your car arrives ,she used to wait down at the dew drop inn ,wait here until your car arrives ,F
+63,bottom,N,"['4', '9']",they started at the bottom of the hill ,they did much of their overseas trade in foreign bottoms ,they started at the bottom of the hill ,they did much of their overseas trade in foreign bottom ,F
+64,straggle,N,"['1', '1']",a straggle of followers ,a straggle of outbuildings ,a straggle of follower ,a straggle of outbuilding ,T
+65,torture,N,"['7', '13']",in every war there are acts of torture that cause the world to shudder ,using large dogs to attack bound  hand  cuffed prisoners is clearly torture ,in every war there are act of torture that cause the world to shudder ,using large dog to attack bound  hand  cuffed prisoner is clearly torture ,T
+66,wash,V,"['5', '2']",this silly excuse wo nt wash in traffic court ,the cat washes several times a day ,this silly excuse wo nt wash in traffic court ,the cat wash several time a day ,F
+67,seem,V,"['1', '1']",i seem to be misunderstood by everyone ,there seems no reason to go ahead with the project now ,i seem to be misunderstood by everyone ,there seems no reason to go ahead with the project now ,F
+68,jockey,N,"['4', '2']",he s a truck jockey ,a disc jockey ,he s a truck jockey ,a disc jockey ,T
+69,sugar,V,"['0', '2']",sugar your tea ,john heavily sugars his coffee ,sugar your tea ,john heavily sugar his coffee ,T
+70,load,V,"['0', '0']",load a car ,load the truck with hay ,load a car ,load the truck with hay ,T
+71,canon,N,"['2', '0']",the neoclassical canon ,canons of polite society ,the neoclassical canon ,canons of polite society ,T
+72,upstage,V,"['6', '8']",she only wore that dress to upstage everyone ,when the dog entered the stage  he upstaged the actress ,she only wore that dress to upstage everyone ,when the dog entered the stage  he upstaged the actress ,T
+73,ruin,V,"['3', '3']",this behavior will ruin your chances of winning the election ,the country lay ruined after the war ,this behavior will ruin your chance of winning the election ,the country lay ruined after the war ,F
+74,modify,V,"['1', '1']",please modify this letter to make it more polite ,he modified his views on same  gender marriage ,please modify this letter to make it more polite ,he modified his view on same  gender marriage ,T
+75,loose,V,"['1', '0']",let loose mines ,loose terrible plagues upon humanity ,let loose mine ,loose terrible plague upon humanity ,T
+76,breast,N,"['3', '5']",he beat his breast in anger ,the robin has a red breast ,he beat his breast in anger ,the robin ha a red breast ,T
+77,invasion,N,"['1', '1']",an invasion of locusts ,an invasion of tourists ,an invasion of locust ,an invasion of tourist ,T
+78,stay,V,"['5', '0']",wear gloves so your hands stay warm ,stay with me  please ,wear glove so your hand stay warm ,stay with me  please ,T
+79,chore,N,"['4', '4']",washing dishes is a chore  but we can not just stop eating ,the farmer s morning chores ,washing dish is a chore  but we can not just stop eating ,the farmer s morning chore ,T
+80,stripe,N,"['3', '3']",businessmen of every stripe joined in opposition to the proposal ,they earned their stripes in kuwait ,businessmen of every stripe joined in opposition to the proposal ,they earned their stripe in kuwait ,F
+81,sight,N,"['4', '7']",he was a familiar sight on the television ,they went to paris to see the sights ,he wa a familiar sight on the television ,they went to paris to see the sight ,T
+82,potluck,N,"['4', '7']",here s a good potluck of beans and stew ,having arrived unannounced we had to take potluck ,here s a good potluck of bean and stew ,having arrived unannounced we had to take potluck ,T
+83,push,V,"['3', '1']",you need to push quite hard to get this door open ,nora pushed through the crowd ,you need to push quite hard to get this door open ,nora pushed through the crowd ,T
+84,nut,N,"['7', '5']",he was driving his car like a nut ,i kicked him in the nuts ,he wa driving his car like a nut ,i kicked him in the nut ,F
+85,share,V,"['2', '3']",our children share a love of music ,the two countries share a long border ,our child share a love of music ,the two country share a long border ,T
+86,develop,V,"['2', '2']",children must develop a sense of right and wrong ,we have developed a new theory of evolution ,children must develop a sense of right and wrong ,we have developed a new theory of evolution ,F
+87,compress,V,"['4', '1']",the force required to compress a spring varies linearly with the displacement ,she compressed her lips ,the force required to compress a spring varies linearly with the displacement ,she compressed her lip ,T
+88,pressure,N,"['2', '6']",he used pressure to stop the bleeding ,the sensitivity of his skin to pressure and temperature was normal ,he used pressure to stop the bleeding ,the sensitivity of his skin to pressure and temperature wa normal ,F
+89,love,V,"['1', '1']",i love french food ,i loved to write ,i love french food ,i loved to write ,T
+90,strike,V,"['0', '2']",strike an arc ,the clock struck midnight ,strike an arc ,the clock struck midnight ,F
+91,shtik,N,"['3', '7']",he s a shtik crazy ,how did you ever fall for a shtik like that ,he s a shtik crazy ,how did you ever fall for a shtik like that ,F
+92,tremor,N,"['3', '4']",she felt a tremor in her stomach before going on stage ,did you feel the tremor this morning ,she felt a tremor in her stomach before going on stage ,did you feel the tremor this morning ,F
+93,whitewash,V,"['3', '10']",let s not whitewash the crimes of stalin ,in his sermon  the minister did nt try to whitewash over the sins of his church ,let s not whitewash the crime of stalin ,in his sermon  the minister did nt try to whitewash over the sin of his church ,F
+94,bridge,N,"['6', '5']",her glasses left marks on the bridge of her nose ,rugby players often break the bridge of their noses ,her glass left mark on the bridge of her nose ,rugby player often break the bridge of their nose ,T
+95,adoxography,N,"['4', '0']",elizabethan schoolboys were taught adoxography  the art of eruditely praising worthless things ,adoxography is particularly useful to lawyers ,elizabethan schoolboy were taught adoxography  the art of eruditely praising worthless thing ,adoxography is particularly useful to lawyer ,T
+96,dexterity,N,"['9', '7']",she twirled the knife through her fingers with impressive dexterity ,playing computer games can improve your manual dexterity ,she twirled the knife through her finger with impressive dexterity ,playing computer game can improve your manual dexterity ,T
+97,reflect,V,"['13', '4']",people do that sort of thing every day  without ever stopping to reflect on the consequences ,the teacher s ability reflects well on the school ,people do that sort of thing every day  without ever stopping to reflect on the consequence ,the teacher s ability reflects well on the school ,F
+98,harbour,N,"['6', '7']",the city has an excellent natural harbour ,the neighbourhood is a well  known harbour for petty thieves ,the city ha an excellent natural harbour ,the neighbourhood is a well  known harbour for petty thief ,F
+99,absorb,V,"['0', '1']",absorb the costs for something ,he absorbed the knowledge or beliefs of his tribe ,absorb the cost for something ,he absorbed the knowledge or belief of his tribe ,F
+100,round,N,"['1', '3']",the round of the seasons ,the postman s rounds ,the round of the season ,the postman s round ,F
+101,resolution,N,"['3', '6']",printing at higher resolution will cause a reduction in performance ,they never did achieve a final resolution of their differences ,printing at higher resolution will cause a reduction in performance ,they never did achieve a final resolution of their difference ,F
+102,applaud,V,"['1', '9']",i applaud your efforts ,although we do nt like your methods  we applaud your motives ,i applaud your effort ,although we do nt like your method  we applaud your motif ,T
+103,trailer,N,"['1', '14']",the trailer for that movie makes it seem like it would be fun ,at the end of the day  we put the snowmobiles back on the trailer ,the trailer for that movie make it seem like it would be fun ,at the end of the day  we put the snowmobile back on the trailer ,F
+104,dinner,N,"['7', '6']",guests should never be late to a dinner party ,on sundays they had a large dinner when they returned from church ,guests should never be late to a dinner party ,on sundays they had a large dinner when they returned from church ,F
+105,growth,N,"['1', '1']",a growth of hair ,the growth of culture ,a growth of hair ,the growth of culture ,F
+106,buzz,N,"['1', '1']",the buzz of excitement was so great that a formal denial was issued ,the buzz of a bumble bee ,the buzz of excitement wa so great that a formal denial wa issued ,the buzz of a bumble bee ,F
+107,beat,N,"['8', '1']",in the old days a policeman walked a beat and knew all his people by name ,a beat of the heart ,in the old day a policeman walked a beat and knew all his people by name ,a beat of the heart ,F
+108,footprint,N,"['5', '1']",the computer had a desktop footprint of 10 by 16 inches ,the footprints of an earlier civilization ,the computer had a desktop footprint of 10 by 16 inch ,the footprint of an earlier civilization ,F
+109,nowhere,N,"['4', '6']",he came out of nowhere ,they went on a cruise to nowhere ,he came out of nowhere ,they went on a cruise to nowhere ,T
+110,mince,N,"['1', '0']",a mince of mushrooms ,mince tastes really good fried in a pan with some chopped onion and tomato ,a mince of mushroom ,mince taste really good fried in a pan with some chopped onion and tomato ,T
+111,militarize,V,"['0', '0']",militarize the civil service ,militarize germany again after the war ,militarize the civil service ,militarize germany again after the war ,F
+112,intention,N,"['1', '1']",the intention of this legislation is to boost the economy ,good intentions are not enough ,the intention of this legislation is to boost the economy ,good intention are not enough ,T
+113,submerge,V,"['0', '2']",submerge your head completely ,the submarine submerged in the water ,submerge your head completely ,the submarine submerged in the water ,F
+114,amuse,V,"['6', '2']",i watch these movies because they amuse me ,the clown amused the children ,i watch these movie because they amuse me ,the clown amused the child ,T
+115,calibrate,V,"['0', '1']",calibrate a gun ,he calibrated the thermometer for the celsius scale ,calibrate a gun ,he calibrated the thermometer for the celsius scale ,F
+116,circumference,N,"['8', '5']",a danger to all races over the whole circumference of the globe ,he had walked the full circumference of his land ,a danger to all race over the whole circumference of the globe ,he had walked the full circumference of his land ,T
+117,tap,V,"['0', '0']",tap a keg of beer ,tap a maple tree for its syrup ,tap a keg of beer ,tap a maple tree for it syrup ,T
+118,branch,N,"['4', '2']",we opened a new branch in london ,our main branch is downtown ,we opened a new branch in london ,our main branch is downtown ,T
+119,peradventure,N,"['3', '2']",this proves beyond peradventure that he is innocent ,proved beyond peradventure   south ,this prof beyond peradventure that he is innocent ,proved beyond peradventure   south ,T
+120,finish,N,"['8', '11']",my horse was several lengths behind at the finish ,the winner is the team with the most points at the finish ,my horse wa several length behind at the finish ,the winner is the team with the most point at the finish ,T
+121,kick,N,"['1', '11']",the kick must be synchronized with the arm movements ,a sidecar is a smooth drink but it has a powerful kick ,the kick must be synchronized with the arm movement ,a sidecar is a smooth drink but it ha a powerful kick ,F
+122,month,N,"['4', '6']",he was given a month to pay the bill ,we went on holiday for two months ,he wa given a month to pay the bill ,we went on holiday for two month ,T
+123,contradistinction,N,"['2', '6']",sculpture in contradistinction to painting ,we used hamburgers and soda in contradistinction to healthy food ,sculpture in contradistinction to painting ,we used hamburger and soda in contradistinction to healthy food ,T
+124,remove,V,"['0', '2']",remove a wrapper ,the president removed many postmasters ,remove a wrapper ,the president removed many postmaster ,F
+125,crash,V,"['2', '2']",you can crash here  though it s not very comfortable ,the terrorists crashed the plane into the palace ,you can crash here  though it s not very comfortable ,the terrorist crashed the plane into the palace ,F
+126,smoothness,N,"['11', '2']",the weather system of the pacific is determined by the uninterrupted smoothness of the ocean ,his oily smoothness concealed his guilt from the police ,the weather system of the pacific is determined by the uninterrupted smoothness of the ocean ,his oily smoothness concealed his guilt from the police ,F
+127,exhibition,N,"['4', '2']",there was an art exhibition on in the town hall ,a boat exhibition ,there wa an art exhibition on in the town hall ,a boat exhibition ,T
+128,cloister,V,"['0', '1']",cloister the garden ,she cloistered herself in the office ,cloister the garden ,she cloistered herself in the office ,F
+129,maneuver,N,"['4', '6']",he made a great maneuver ,parallel parking can be a difficult maneuver ,he made a great maneuver ,parallel parking can be a difficult maneuver ,T
+130,mess,N,"['4', '5']",the house was a mess ,my boss dumped a whole mess of projects on my desk today ,the house wa a mess ,my bos dumped a whole mess of project on my desk today ,F
+131,burn,V,"['0', '3']",burn a cd ,my eyes are burning ,burn a cd ,my eye are burning ,F
+132,knuckleball,N,"['8', '14']",even the pitcher does nt know where his knuckleball is going ,boston red sox pitcher tim wakefield is best known for his use of the knuckleball ,even the pitcher doe nt know where his knuckleball is going ,boston red sox pitcher tim wakefield is best known for his use of the knuckleball ,T
+133,map,V,"['0', '0']",map the genes ,map the surface of venus ,map the gene ,map the surface of venus ,F
+134,mandate,V,"['0', '7']",mandate a colony ,the new director of the school board mandated regular tests ,mandate a colony ,the new director of the school board mandated regular test ,F
+135,way,N,"['7', '4']",they did nt have much in the way of clothing ,we went our separate ways ,they did nt have much in the way of clothing ,we went our separate way ,F
+136,shock,V,"['1', '0']",to shock rye ,shock grain ,to shock rye ,shock grain ,T
+137,tipper,N,"['2', '7']",a generous tipper ,the americans are among the most generous tippers in the world ,a generous tipper ,the americans are among the most generous tipper in the world ,T
+138,avail,V,"['2', '1']",it will avail them to dispose of their booty ,he availed himself of the available resources ,it will avail them to dispose of their booty ,he availed himself of the available resource ,F
+139,button,N,"['6', '4']",the politician wore a bright yellow button with the slogan  vote smart  emblazoned on it ,they passed out campaign buttons for their candidate ,the politician wore a bright yellow button with the slogan  vote smart  emblazoned on it ,they passed out campaign button for their candidate ,T
+140,crop,N,"['2', '2']",the annual crop of students brings many new ideas ,the latest crop of fashions is about to hit the stores ,the annual crop of student brings many new idea ,the latest crop of fashion is about to hit the store ,F
+141,boot,V,"['0', '11']",boot your computer ,when arriving at the office  first thing i do is booting my machine ,boot your computer ,when arriving at the office  first thing i do is booting my machine ,T
+142,heartbeat,N,"['5', '5']",the policeman waited for a heartbeat in vain ,he alone gives me such heartbeats ,the policeman waited for a heartbeat in vain ,he alone give me such heartbeat ,T
+143,drag,V,"['3', '2']",time seems to drag when you re waiting for a bus ,the speech dragged on for two hours ,time seems to drag when you re waiting for a bus ,the speech dragged on for two hour ,F
+144,chisel,V,"['0', '2']",chisel the marble ,who s chiseling on the side ,chisel the marble ,who s chiseling on the side ,F
+145,literature,N,"['11', '2']",one aspect of waterloo has not yet been treated in the literature ,the technical literature ,one aspect of waterloo ha not yet been treated in the literature ,the technical literature ,T
+146,snatch,N,"['2', '1']",martin s snatch at the bridle failed and the horse raced away ,overheard snatches of their conversation ,martin s snatch at the bridle failed and the horse raced away ,overheard snatch of their conversation ,F
+147,excite,V,"['5', '0']",there are drugs designed to excite certain nerves in our body ,excite the audience ,there are drug designed to excite certain nerve in our body ,excite the audience ,T
+148,building,N,"['2', '1']",the entire building complained about the noise ,the building of the bridge will be completed in a couple of weeks ,the entire building complained about the noise ,the building of the bridge will be completed in a couple of week ,F
+149,scallop,V,"['0', '0']",scallop the hem of the dress ,scallop the meat ,scallop the hem of the dress ,scallop the meat ,F
+150,date,V,"['4', '1']",scientists often can not date precisely archeological or prehistorical findings ,to date the building of the pyramids ,scientists often can not date precisely archeological or prehistorical finding ,to date the building of the pyramid ,T
+151,exchange,N,"['4', '1']",they had a bitter exchange ,an exchange of cattle for grain ,they had a bitter exchange ,an exchange of cattle for grain ,F
+152,apology,N,"['3', '1']",it was an apology for a meal ,the apology of socrates ,it wa an apology for a meal ,the apology of socrates ,F
+153,spade,N,"['4', '0']",she led a low spade ,spades were trumps ,she led a low spade ,spades were trump ,T
+154,cocoon,V,"['7', '1']",she loves to stay at home and cocoon ,families cocoon around the tv set most evenings ,she love to stay at home and cocoon ,families cocoon around the tv set most evening ,T
+155,build,V,"['0', '3']",build up confidence ,they had to build up their fortress to protect against attack ,build up confidence ,they had to build up their fortress to protect against attack ,T
+156,winterize,V,"['0', '0']",winterize cars ,winterize your houses ,winterize car ,winterize your house ,T
+157,wish,N,"['3', '2']",he got his wish ,my best wishes ,he got his wish ,my best wish ,F
+158,reinstatement,N,"['1', '15']",her reinstatement to her former office followed quickly ,many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement ,her reinstatement to her former office followed quickly ,many people are unhappy with the sacking of the chief constable and demand his immediate reinstatement ,F
+159,watch,V,"['9', '3']",put a little baking soda in some vinegar and watch what happens ,the world is watching sarajevo ,put a little baking soda in some vinegar and watch what happens ,the world is watching sarajevo ,F
+160,installation,N,"['8', '2']",he gave a speech as part of his installation into the hall of fame ,the telephone installation took only a few minutes ,he gave a speech a part of his installation into the hall of fame ,the telephone installation took only a few minute ,F
+161,conceive,V,"['3', '7']",she can not conceive ,assisted procreation can help those trying to conceive ,she can not conceive ,assisted procreation can help those trying to conceive ,T
+162,touch,V,"['3', '7']",he could not touch the meaning of the poem ,helen keller felt the physical world by touching people and objects around her ,he could not touch the meaning of the poem ,helen keller felt the physical world by touching people and object around her ,F
+163,percolate,V,"['0', '2']",percolate coffee ,i ll percolate some coffee ,percolate coffee ,i ll percolate some coffee ,T
+164,drought,N,"['10', '5']",when england defeated pakistan it ended a ten  year drought ,farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season ,when england defeated pakistan it ended a ten  year drought ,farmers most affected by the drought hope that there may yet be sufficient rain early in the growing season ,F
+165,excite,V,"['0', '6']",excite the neurons ,the fireworks which opened the festivities excited anyone present ,excite the neuron ,the firework which opened the festivity excited anyone present ,F
+166,pull,N,"['2', '3']",a zipper pull ,he grabbed the pull and opened the drawer ,a zipper pull ,he grabbed the pull and opened the drawer ,T
+167,fight,N,"['1', '2']",a fight broke out at the hockey game ,there were fights in the streets ,a fight broke out at the hockey game ,there were fight in the street ,T
+168,breed,N,"['5', '1']",he experimented on a particular breed of white rats ,a breed of animal ,he experimented on a particular breed of white rat ,a breed of animal ,T
+169,mainstream,N,"['6', '6']",his thinking was in the american mainstream ,his ideas were well outside the mainstream  but he presented them intelligently  and we were impressed if not convinced ,his thinking wa in the american mainstream ,his idea were well outside the mainstream  but he presented them intelligently  and we were impressed if not convinced ,T
+170,help,N,"['3', '3']",there s no help for it ,i need some help with my homework ,there s no help for it ,i need some help with my homework ,F
+171,cognate,N,"['3', '10']",english is a cognate of greek  german  russian and persian ,english and  russian  icelandic and irish are all cognates ,english is a cognate of greek  german  russian and persian ,english and  russian  icelandic and irish are all cognate ,T
+172,convey,V,"['1', '1']",to convey information ,she conveyed the message to me ,to convey information ,she conveyed the message to me ,T
+173,profession,N,"['1', '6']",a profession of disagreement ,my father was a barrister by profession ,a profession of disagreement ,my father wa a barrister by profession ,F
+174,protest,N,"['6', '5']",the senator rose to register his protest ,they finished the game under protest to the league president ,the senator rose to register his protest ,they finished the game under protest to the league president ,T
+175,operation,N,"['3', '7']",the plane s operation in high winds ,the power of its engine determines its operation ,the plane s operation in high wind ,the power of it engine determines it operation ,T
+176,strip,N,"['6', '3']",he welded together some pieces of strip ,she did a strip right in front of everyone ,he welded together some piece of strip ,she did a strip right in front of everyone ,F
+177,toss,V,"['2', '1']",i ll toss you for it ,steve tossed john the ball ,i ll toss you for it ,steve tossed john the ball ,T
+178,squeaker,N,"['4', '3']",which hinge is the squeaker ,those sneakers are squeakers ,which hinge is the squeaker ,those sneaker are squeaker ,T
+179,delta,N,"['2', '3']",the nile delta ,the mississippi river delta ,the nile delta ,the mississippi river delta ,T
+180,sign,V,"['1', '1']",please sign on the dotted line ,please sign here ,please sign on the dotted line ,please sign here ,T
+181,capacity,N,"['2', '7']",limited runway capacity ,he should be retained in his present capacity at a higher salary ,limited runway capacity ,he should be retained in his present capacity at a higher salary ,F
+182,frame,N,"['2', '9']",a lace frame ,his starved flesh hung loosely on his once imposing frame ,a lace frame ,his starved flesh hung loosely on his once imposing frame ,F
+183,solemnize,V,"['4', '2']",the couple chose to solemnize their relationship in a secular ceremony  instead of having a wedding ,the king solemnized this day of morning ,the couple chose to solemnize their relationship in a secular ceremony  instead of having a wedding ,the king solemnized this day of morning ,F
+184,drawing,N,"['1', '8']",the drawing of water from the well ,he did complicated pen  and  ink drawings like medieval miniatures ,the drawing of water from the well ,he did complicated pen  and  ink drawing like medieval miniature ,F
+185,cup,N,"['3', '4']",he put the cup back in the saucer ,the handle of the cup was missing ,he put the cup back in the saucer ,the handle of the cup wa missing ,T
+186,plan,V,"['0', '1']",plan an attack ,he plans to be in graduate school next year ,plan an attack ,he plan to be in graduate school next year ,F
+187,hit,V,"['0', '3']",hit the bottle ,he tries to hit on women in bars ,hit the bottle ,he try to hit on woman in bar ,F
+188,criticize,V,"['2', '2']",those who criticize others often are not perfect  either ,the paper criticized the new movie ,those who criticize others often are not perfect  either ,the paper criticized the new movie ,F
+189,wake,N,"['7', '3']",there s no weeping at an irish wake ,the motorboat s wake capsized the canoe ,there s no weeping at an irish wake ,the motorboat s wake capsized the canoe ,F
+190,stream,N,"['3', '4']",he felt a stream of air ,the hose ejected a stream of water ,he felt a stream of air ,the hose ejected a stream of water ,T
+191,block,V,"['0', '3']",block the signals emitted by this station ,the thick curtain blocked the action on the stage ,block the signal emitted by this station ,the thick curtain blocked the action on the stage ,F
+192,obstacle,N,"['5', '7']",lack of imagination is an obstacle to one s advancement ,the poverty of a district is an obstacle to good education ,lack of imagination is an obstacle to one s advancement ,the poverty of a district is an obstacle to good education ,T
+193,point,V,"['0', '4']",point a gun ,it s rude to point at other people ,point a gun ,it s rude to point at other people ,F
+194,draw,N,"['4', '4']",the luck of the draw ,they anticipated a tough draw ,the luck of the draw ,they anticipated a tough draw ,T
+195,embellish,V,"['1', '5']",to embellish a story  the truth ,the old book cover was embellished with golden letters ,to embellish a story  the truth ,the old book cover wa embellished with golden letter ,T
+196,glimpse,N,"['7', '4']",from the window he could catch a glimpse of the lake ,he caught only a glimpse of the professor s meaning ,from the window he could catch a glimpse of the lake ,he caught only a glimpse of the professor s meaning ,F
+197,shuffle,V,"['1', '0']",you shuffle  i ll deal ,shuffle the cards ,you shuffle  i ll deal ,shuffle the card ,T
+198,bracket,V,"['1', '0']",please bracket this remark ,bracket bookshelves ,please bracket this remark ,bracket bookshelf ,F
+199,vary,V,"['1', '2']",prices vary ,his moods vary depending on the weather ,prices vary ,his mood vary depending on the weather ,T
+200,abridge,V,"['4', '4']",the new law might abridge our freedom of expression ,he had his rights abridged by the crooked sheriff ,the new law might abridge our freedom of expression ,he had his right abridged by the crooked sheriff ,T
+201,attack,N,"['4', '1']",he published an unexpected attack on my work ,an attack of diarrhea ,he published an unexpected attack on my work ,an attack of diarrhea ,F
+202,revenge,N,"['4', '15']",indifference is the sweetest revenge ,when i left my wife  she tried to set fire to the house in revenge ,indifference is the sweetest revenge ,when i left my wife  she tried to set fire to the house in revenge ,T
+203,review,V,"['2', '10']",let s review your situation ,before i tackle the question directly  i must briefly review historical approaches to the problem ,let s review your situation ,before i tackle the question directly  i must briefly review historical approach to the problem ,T
+204,tilt,N,"['3', '5']",the court s tilt toward conservative rulings ,the tower had a pronounced tilt ,the court s tilt toward conservative ruling ,the tower had a pronounced tilt ,F
+205,consult,V,"['3', '0']",they had to consult before arriving at a decision ,consult your local broker ,they had to consult before arriving at a decision ,consult your local broker ,T
+206,reline,V,"['0', '6']",reline the paper ,the old fur coat must be relined ,reline the paper ,the old fur coat must be relined ,F
+207,liberty,N,"['1', '0']",at liberty to choose whatever occupation one wishes ,liberty to think or feel or do just as one pleases ,at liberty to choose whatever occupation one wish ,liberty to think or feel or do just a one plea ,T
+208,answer,V,"['0', '5']",answer the question ,she did nt want to answer ,answer the question ,she did nt want to answer ,T
+209,carve,V,"['0', '2']",carve one s name into the bark ,that chisel carved the statue ,carve one s name into the bark ,that chisel carved the statue ,T
+210,square,N,"['10', '3']",the carpenter who built this room must have lost his square ,64 is the square of 8 ,the carpenter who built this room must have lost his square ,64 is the square of 8 ,F
+211,donate,V,"['0', '1']",donate money to the orphanage ,i donated blood to the red cross for the victims of the earthquake ,donate money to the orphanage ,i donated blood to the red cross for the victim of the earthquake ,T
+212,proliferate,V,"['3', '2']",we must not proliferate nuclear arms ,the flowers proliferated rapidly all spring ,we must not proliferate nuclear arm ,the flower proliferated rapidly all spring ,T
+213,hew,V,"['0', '11']",hew out a path in the rock ,one of the most widely used typefaces in the world was hewn by the english printer and typographer john baskerville ,hew out a path in the rock ,one of the most widely used typeface in the world wa hewn by the english printer and typographer john baskerville ,T
+214,keep,V,"['2', '1']",can i keep my old stuffed animals ,she kept her maiden name after she married ,can i keep my old stuffed animal ,she kept her maiden name after she married ,T
+215,sophistication,N,"['5', '6']",he practiced the art of sophistication upon reason ,understanding affine transformations requires considerable mathematical sophistication ,he practiced the art of sophistication upon reason ,understanding affine transformation requires considerable mathematical sophistication ,F
+216,shot,N,"['5', '1']",he trained at putting the shot ,the shot flew twenty metres  and nearly landed on the judge s foot ,he trained at putting the shot ,the shot flew twenty metre  and nearly landed on the judge s foot ,T
+217,muscle,N,"['4', '0']",the senators used their muscle to get the party leader to resign ,muscle consists largely of actin and myosin filaments ,the senator used their muscle to get the party leader to resign ,muscle consists largely of actin and myosin filament ,F
+218,fiddle,V,"['2', '2']",do nt fiddle with the screws ,she always fiddles with her van on the weekend ,do nt fiddle with the screw ,she always fiddle with her van on the weekend ,F
+219,harass,V,"['0', '2']",harass the enemy ,this man harasses his female co  workers ,harass the enemy ,this man harasses his female co  worker ,F
+220,minister,N,"['1', '4']",the minister said a prayer on behalf of the entire congregation ,clergymen are usually called ministers in protestant churches ,the minister said a prayer on behalf of the entire congregation ,clergymen are usually called minister in protestant church ,T
+221,sequence,N,"['5', '4']",he played the trumps in sequence ,the doctor saw a sequence of patients ,he played the trump in sequence ,the doctor saw a sequence of patient ,F
+222,abatement,N,"['1', '3']",the abatement of a nuisance is the suppression thereof ,laws enforcing noise abatement ,the abatement of a nuisance is the suppression thereof ,laws enforcing noise abatement ,T
+223,incorporate,V,"['0', '3']",incorporate this document with those pertaining to the same case ,the company was incorporated in 1980 ,incorporate this document with those pertaining to the same case ,the company wa incorporated in 1980 ,F
+224,chew,V,"['5', '0']",the steak was tough to chew as it had been cooked too long ,chew your food and do nt swallow it ,the steak wa tough to chew a it had been cooked too long ,chew your food and do nt swallow it ,T
+225,conclusion,N,"['1', '1']",the conclusion of the peace treaty ,the conclusion of a business deal ,the conclusion of the peace treaty ,the conclusion of a business deal ,T
+226,fiefdom,N,"['3', '20']",the duke s fiefdom had been greatly expanded as a reward for his dutiful military service on behalf of the king ,most of our company s computers are standardized  but the it director allows the employees in his own little fiefdom to specify their own machines ,the duke s fiefdom had been greatly expanded a a reward for his dutiful military service on behalf of the king ,most of our company s computer are standardized  but the it director allows the employee in his own little fiefdom to specify their own machine ,F
+227,marriage,N,"['1', '1']",a marriage of ideas ,the marriage of music and dance ,a marriage of idea ,the marriage of music and dance ,T
+228,button,N,"['3', '6']",pat pushed the button marked  shred  on the blender ,the elevator was operated by push buttons ,pat pushed the button marked  shred  on the blender ,the elevator wa operated by push button ,T
+229,plant,V,"['0', '0']",plant bugs in the dissident s apartment ,plant a spy in moscow ,plant bug in the dissident s apartment ,plant a spy in moscow ,T
+230,accumulate,V,"['3', '2']",he wishes to accumulate a sum of money ,journals are accumulating in my office ,he wish to accumulate a sum of money ,journals are accumulating in my office ,T
+231,wrangle,V,"['0', '11']",wrangle horses ,the bar keeper threw them out  but they continued to wrangle on down the street ,wrangle horse ,the bar keeper threw them out  but they continued to wrangle on down the street ,F
+232,ticket,N,"['6', '9']",this car could be just the ticket for a small family ,joe will be running on an anti  crime ticket ,this car could be just the ticket for a small family ,joe will be running on an anti  crime ticket ,F
+233,shake,V,"['0', '2']",shake the salt out of the salt shaker ,his hands shook ,shake the salt out of the salt shaker ,his hand shook ,F
+234,process,V,"['0', '1']",process iron ,they processed into the dining room ,process iron ,they processed into the dining room ,F
+235,spread,V,"['2', '1']",the infection spread ,optimism spread among the population ,the infection spread ,optimism spread among the population ,T
+236,seize,V,"['4', '2']",birds of prey often seize small mammals ,the invaders seized the land and property of the inhabitants ,birds of prey often seize small mammal ,the invader seized the land and property of the inhabitant ,F
+237,follow,V,"['2', '1']",we must follow closely the economic development is cuba ,it follows that your assertion is false ,we must follow closely the economic development is cuba ,it follows that your assertion is false ,F
+238,pull,N,"['4', '6']",it was a long pull but we made it ,he was sidelined with a hamstring pull ,it wa a long pull but we made it ,he wa sidelined with a hamstring pull ,F
+239,misdirect,V,"['0', '2']",misdirect the letter ,the pedestrian misdirected the out  of  town driver ,misdirect the letter ,the pedestrian misdirected the out  of  town driver ,F
+240,distribution,N,"['2', '1']",worldwide in distribution ,the distribution of nerve fibers ,worldwide in distribution ,the distribution of nerve fiber ,T
+241,sit,V,"['6', '7']",when does the court of law sit ,in what city is the circuit court sitting for this session ,when doe the court of law sit ,in what city is the circuit court sitting for this session ,T
+242,command,V,"['1', '0']",to command an army or a ship ,command the military forces ,to command an army or a ship ,command the military force ,T
+243,touch,N,"['3', '4']",he has a touch of rheumatism ,he longed for the touch of her hand ,he ha a touch of rheumatism ,he longed for the touch of her hand ,F
+244,last,V,"['3', '3']",summer seems to last longer each year ,the bad weather lasted for three days ,summer seems to last longer each year ,the bad weather lasted for three day ,T
+245,lead,N,"['2', '13']",a good lead for a job ,joe is a great addition to our sales team  he has numerous leads in the paper industry ,a good lead for a job ,joe is a great addition to our sale team  he ha numerous lead in the paper industry ,T
+246,contact,V,"['4', '2']",i am trying to contact my sister ,he never contacted his children after he emigrated to australia ,i am trying to contact my sister ,he never contacted his child after he emigrated to australia ,T
+247,send,V,"['0', '1']",send me your latest results ,nora sent the book from paris ,send me your latest result ,nora sent the book from paris ,T
+248,patronage,N,"['6', '7']",the restaurant had an upper class patronage ,even before noon there was a considerable patronage ,the restaurant had an upper class patronage ,even before noon there wa a considerable patronage ,F
+249,exile,N,"['3', '4']",he lived in exile ,she lived as an exile ,he lived in exile ,she lived a an exile ,F
+250,bastion,N,"['2', '1']",the last bastion of communism ,a bastion against corruption ,the last bastion of communism ,a bastion against corruption ,T
+251,admit,V,"['0', '2']",admit someone to the profession ,she was admitted to the new jersey bar ,admit someone to the profession ,she wa admitted to the new jersey bar ,T
+252,occurrence,N,"['4', '1']",a disease of frequent occurrence ,the occurrence  or presence  of life on other planets ,a disease of frequent occurrence ,the occurrence  or presence  of life on other planet ,T
+253,ease,V,"['0', '2']",ease the pain in your legs ,the pain eased overnight ,ease the pain in your leg ,the pain eased overnight ,F
+254,safety,N,"['3', '3']",he ran to safety ,the reciprocal of safety is risk ,he ran to safety ,the reciprocal of safety is risk ,F
+255,save,N,"['7', '5']",the relief pitcher got credit for a save ,the goalie made a brilliant save ,the relief pitcher got credit for a save ,the goalie made a brilliant save ,T
+256,stop,V,"['0', '0']",stop a car ,stop the thief ,stop a car ,stop the thief ,T
+257,exalt,V,"['2', '3']",these paintings exalt the imagination ,the man was exalted from a humble carpenter to a minister ,these painting exalt the imagination ,the man wa exalted from a humble carpenter to a minister ,F
+258,taste,N,"['11', '3']",to ask at that particular time was the ultimate in bad taste ,he got a taste of life on the wild side ,to ask at that particular time wa the ultimate in bad taste ,he got a taste of life on the wild side ,F
+259,advantage,N,"['4', '5']",the enemy had the advantage of a more elevated position ,the experience gave him the advantage over me ,the enemy had the advantage of a more elevated position ,the experience gave him the advantage over me ,T
+260,deliberation,N,"['3', '1']",it was the deliberation of his act that was insulting ,the deliberations of the jury ,it wa the deliberation of his act that wa insulting ,the deliberation of the jury ,F
+261,allowance,V,"['5', '3']",the captain was obliged to allowance his crew ,our provisions were allowanced ,the captain wa obliged to allowance his crew ,our provision were allowanced ,T
+262,arousal,N,"['3', '6']",to influence the arousal of brain and behavior ,the purpose of art is the arousal of emotions ,to influence the arousal of brain and behavior ,the purpose of art is the arousal of emotion ,T
+263,whimsy,N,"['0', '3']",whimsy can be humorous to someone with time to enjoy it ,he had a whimsy about flying to the moon ,whimsy can be humorous to someone with time to enjoy it ,he had a whimsy about flying to the moon ,T
+264,strain,V,"['2', '2']",do nt strain your mind too much ,the rope strained when the weight was attached ,do nt strain your mind too much ,the rope strained when the weight wa attached ,F
+265,vision,N,"['9', '3']",the runners emerged from the trees into his clear vision ,he had a vision of the virgin mary ,the runner emerged from the tree into his clear vision ,he had a vision of the virgin mary ,F
+266,relieve,V,"['3', '2']",this shall not relieve either party of any obligations ,the thief relieved me of  100 ,this shall not relieve either party of any obligation ,the thief relieved me of  100 ,F
+267,vote,V,"['1', '1']",i vote that we all go home ,she voted for going to the chinese restaurant ,i vote that we all go home ,she voted for going to the chinese restaurant ,T
+268,gap,N,"['0', '7']",gap between income and outgo ,the exploring party went through the high gap in the mountains ,gap between income and outgo ,the exploring party went through the high gap in the mountain ,F
+269,partnership,N,"['5', '5']",the action teams worked in partnership with the government ,effective language learning is a partnership between school  teacher and student ,the action team worked in partnership with the government ,effective language learning is a partnership between school  teacher and student ,T
+270,piece,N,"['6', '3']",the children acted out a comic piece to amuse the guests ,he sacrificed a piece to get a strategic advantage ,the child acted out a comic piece to amuse the guest ,he sacrificed a piece to get a strategic advantage ,F
+271,body,N,"['1', '1']",the body of the car was badly rusted ,administrative body ,the body of the car wa badly rusted ,administrative body ,F
+272,right,N,"['2', '1']",take a right at the corner ,film rights ,take a right at the corner ,film right ,F
+273,fuel,N,"['1', '3']",more fuel is needed during the winter months ,they developed alternative fuels for aircraft ,more fuel is needed during the winter month ,they developed alternative fuel for aircraft ,T
+274,peg,V,"['2', '0']",let s peg the rug to the floor ,peg a tent ,let s peg the rug to the floor ,peg a tent ,T
+275,largeness,N,"['6', '5']",the might have repercussions of unimaginable largeness ,a man distinguished by the largeness and scope of his views ,the might have repercussion of unimaginable largeness ,a man distinguished by the largeness and scope of his view ,F
+276,affect,V,"['4', '2']",will the new rules affect me ,the medicine affects my heart rate ,will the new rule affect me ,the medicine affect my heart rate ,F
+277,hell,N,"['2', '1']",war is hell ,the hell of battle ,war is hell ,the hell of battle ,F
+278,cost,N,"['2', '2']",the average cost of a new house is twice as much as t was 20 years ago ,the total cost of the new complex was an estimated  15 million ,the average cost of a new house is twice a much a t wa 20 year ago ,the total cost of the new complex wa an estimated  15 million ,T
+279,parade,N,"['6', '3']",the floats and horses in the parade were impressive  but the marching bands were really amazing ,she made a parade of her sorrows ,the float and horse in the parade were impressive  but the marching band were really amazing ,she made a parade of her sorrow ,F
+280,preparation,N,"['3', '8']",he left the preparation of meals to his wife ,the resolution of one dissonance is often the preparation for another dissonance ,he left the preparation of meal to his wife ,the resolution of one dissonance is often the preparation for another dissonance ,F
+281,sort,N,"['4', '3']",she served a creamy sort of dessert thing ,she wore a sort of magenta dress ,she served a creamy sort of dessert thing ,she wore a sort of magenta dress ,T
+282,refrigerate,V,"['1', '0']",please refrigerate your uncooked meats at or below 40 fahrenheit ,refrigerate this medicine ,please refrigerate your uncooked meat at or below 40 fahrenheit ,refrigerate this medicine ,T
+283,ash,N,"['4', '1']",the woods planted in ash will see a different mix of species ,the ash trees are dying off ,the wood planted in ash will see a different mix of specie ,the ash tree are dying off ,T
+284,tradecraft,N,"['13', '10']",the cia chief of station accepted responsibility for his agents  failures of tradecraft ,instructional designers are trained in something that might be called tradecraft ,the cia chief of station accepted responsibility for his agent  failure of tradecraft ,instructional designer are trained in something that might be called tradecraft ,T
+285,sense,V,"['2', '2']",particle detectors sense ionization ,she immediately sensed her disdain ,particle detector sense ionization ,she immediately sensed her disdain ,F
+286,utter,V,"['0', '1']",utter counterfeit currency ,he uttered strange sounds that nobody could understand ,utter counterfeit currency ,he uttered strange sound that nobody could understand ,F
+287,capital,N,"['2', '2']",the drug capital of columbia ,the crime capital of italy ,the drug capital of columbia ,the crime capital of italy ,T
+288,prepare,V,"['0', '1']",prepare for war ,we prepared a fish for dinner ,prepare for war ,we prepared a fish for dinner ,F
+289,gem,N,"['3', '4']",he had the gem set in a ring for his wife ,she s an absolute gem ,he had the gem set in a ring for his wife ,she s an absolute gem ,F
+290,part,N,"['5', '3']",the government must do its part ,religions in all parts of the world ,the government must do it part ,religions in all part of the world ,F
+291,rise,V,"['0', '2']",rise to the occasion ,her spirits rose when she heard the good news ,rise to the occasion ,her spirit rose when she heard the good news ,F
+292,hook,V,"['0', '2']",hook the ball ,his opponent hooked him badly ,hook the ball ,his opponent hooked him badly ,F
+293,tool,N,"['3', '6']",he was a tool  no more than a pawn to her ,i do nt have the right tools to start fiddling around with the engine ,he wa a tool  no more than a pawn to her ,i do nt have the right tool to start fiddling around with the engine ,F
+294,life,N,"['1', '13']",real life ,it was a heavy play and the actors tried in vain to give life to it ,real life ,it wa a heavy play and the actor tried in vain to give life to it ,F
+295,result,V,"['0', '3']",result in tragedy ,this measure will result in good or in evil ,result in tragedy ,this measure will result in good or in evil ,T
+296,story,N,"['4', '2']",the book tells the story of two roommates ,disney s stories entertain adults as well as children ,the book tell the story of two roommate ,disney s story entertain adult a well a child ,T
+297,load,N,"['3', '5']",that s a load off my mind ,i m worried that the load on that transformer will be too high ,that s a load off my mind ,i m worried that the load on that transformer will be too high ,F
+298,office,N,"['4', '5']",an executive or judical office ,during his first year in office ,an executive or judical office ,during his first year in office ,F
+299,configure,V,"['0', '0']",configure a plane for a combat mission ,configure my new computer ,configure a plane for a combat mission ,configure my new computer ,T
+300,torrent,N,"['7', '3']",the houses were swept away in the torrent ,they endured a torrent of inquiries ,the house were swept away in the torrent ,they endured a torrent of inquiry ,T
+301,choke,V,"['0', '3']",choke a carburetor ,this neckband is choking the cat ,choke a carburetor ,this neckband is choking the cat ,F
+302,embodiment,N,"['1', '4']",the embodiment of hope ,a circle was the embodiment of his concept of life ,the embodiment of hope ,a circle wa the embodiment of his concept of life ,F
+303,date,N,"['1', '1']",his date never stopped talking ,the date for pleading ,his date never stopped talking ,the date for pleading ,F
+304,engrave,V,"['0', '0']",engrave a letter ,engrave a pen ,engrave a letter ,engrave a pen ,F
+305,blend,N,"['5', '7']",` smog  is a blend of ` smoke  and ` fog  ,their music has been described as a blend of jazz and heavy metal ,` smog  is a blend of ` smoke  and ` fog  ,their music ha been described a a blend of jazz and heavy metal ,T
+306,aim,V,"['3', '1']",she wanted to aim a pun ,he aimed his fists towards his opponent s face ,she wanted to aim a pun ,he aimed his fist towards his opponent s face ,F
+307,department,N,"['5', '4']",his work established a new department of literature ,baking is not my department ,his work established a new department of literature ,baking is not my department ,T
+308,plume,N,"['1', '3']",a plume of smoke ,grass with large plumes ,a plume of smoke ,grass with large plume ,T
+309,curd,N,"['1', '1']",bean curd ,lemon curd ,bean curd ,lemon curd ,T
+310,rush,N,"['7', '4']",the linebackers were ready to stop a rush ,come back after the rush ,the linebacker were ready to stop a rush ,come back after the rush ,F
+311,remover,N,"['1', '1']",rust remover ,paint remover ,rust remover ,paint remover ,T
+312,care,N,"['5', '0']",he handled the vase with care ,care should be taken when holding babies ,he handled the vase with care ,care should be taken when holding baby ,F
+313,noise,N,"['15', '3']",he knew that it was trash day  when the garbage collectors made all the noise ,they heard indistinct noises of people talking ,he knew that it wa trash day  when the garbage collector made all the noise ,they heard indistinct noise of people talking ,F
+314,donate,V,"['5', '1']",some of the members may donate privately ,she donates to her favorite charity every month ,some of the member may donate privately ,she donates to her favorite charity every month ,T
+315,earshot,N,"['10', '7']",i ll row out on the lake but stay within earshot ,the children were told to stay within earshot ,i ll row out on the lake but stay within earshot ,the child were told to stay within earshot ,T
+316,home,N,"['11', '1']",canadian tariffs enabled united states lumber companies to raise prices at home ,his home is new jersey ,canadian tariff enabled united states lumber company to raise price at home ,his home is new jersey ,T
+317,member,N,"['3', '4']",canada is a member of the united nations ,the library was a member of the interlibrary loan association ,canada is a member of the united nations ,the library wa a member of the interlibrary loan association ,T
+318,class,N,"['3', '15']",an emerging professional class ,apologizing for losing your temper  even though you were badly provoked  showed real class ,an emerging professional class ,apologizing for losing your temper  even though you were badly provoked  showed real class ,F
+319,disable,V,"['0', '2']",disable this command on your computer ,he was disabled in a car accident ,disable this command on your computer ,he wa disabled in a car accident ,F
+320,moderate,V,"['1', '1']",to moderate a synod ,john moderated the discussion ,to moderate a synod ,john moderated the discussion ,T
+321,horse,N,"['2', '1']",a clothes horse ,500 horse led the attack ,a clothes horse ,500 horse led the attack ,F
+322,tree,V,"['4', '4']",her dog likes to tree squirrels ,this lot should be treed so that the house will be shaded in summer ,her dog like to tree squirrel ,this lot should be treed so that the house will be shaded in summer ,F
+323,attitude,N,"['10', '6']",the airliner had to land with a nose  up attitude after the incident ,the actor struck just the right attitude ,the airliner had to land with a nose  up attitude after the incident ,the actor struck just the right attitude ,F
+324,afford,V,"['3', '2']",we ca nt afford to send our children to college ,can you afford this car ,we ca nt afford to send our child to college ,can you afford this car ,T
+325,renovate,V,"['2', '1']",this will renovate my spirits ,they renovated the ceiling of the sistine chapel ,this will renovate my spirit ,they renovated the ceiling of the sistine chapel ,F
+326,wateriness,N,"['1', '3']",the wateriness of his blood ,the haziness and wateriness of his disquisitions ,the wateriness of his blood ,the haziness and wateriness of his disquisition ,T
+327,continent,N,"['5', '3']",pioneers had to cross the continent on foot ,there are seven continents ,pioneers had to cross the continent on foot ,there are seven continent ,T
+328,break,N,"['2', '5']",make a break for it ,he finally got his big break ,make a break for it ,he finally got his big break ,F
+329,operation,N,"['4', '4']",they organized a rescue operation ,consolidate the companies various operations ,they organized a rescue operation ,consolidate the company various operation ,T
+330,check,N,"['8', '1']",as he called the role he put a check mark by each student s name ,a check on its dependability under stress ,as he called the role he put a check mark by each student s name ,a check on it dependability under stress ,F
+331,influence,N,"['4', '4']",he was a bad influence on the children ,used her parents  influence to get the job ,he wa a bad influence on the child ,used her parent  influence to get the job ,F
+332,scrub,V,"['2', '1']",surgeons must scrub prior to an operation ,she scrubbed his back ,surgeons must scrub prior to an operation ,she scrubbed his back ,F
+333,facility,N,"['6', '1']",the assembly plant is an enormous facility ,educational facilities ,the assembly plant is an enormous facility ,educational facility ,F
+334,wine,N,"['3', '0']",she ordered some wine for the meal ,wine is stronger than beer ,she ordered some wine for the meal ,wine is stronger than beer ,T
+335,closure,N,"['3', '11']",they regretted the closure of the day care center ,he needed to grieve before he could achieve a sense of closure ,they regretted the closure of the day care center ,he needed to grieve before he could achieve a sense of closure ,F
+336,cuisine,N,"['7', '1']",the restaurant is noted for its excellent cuisine ,french cuisine is considered to be one of the world s most refined and elegant styles of cooking ,the restaurant is noted for it excellent cuisine ,french cuisine is considered to be one of the world s most refined and elegant style of cooking ,T
+337,peak,N,"['1', '4']",the peak of perfection ,the view from the peak was magnificent ,the peak of perfection ,the view from the peak wa magnificent ,F
+338,liberate,V,"['1', '1']",to liberate the mind from prejudice ,to liberate gases ,to liberate the mind from prejudice ,to liberate gas ,T
+339,trip,V,"['5', '5']",a pedestrian was able to trip the burglar as he was running away ,the questions on the test tripped him up ,a pedestrian wa able to trip the burglar a he wa running away ,the question on the test tripped him up ,T
+340,ball,N,"['1', '4']",the ball at the base of the thumb ,he stood on the balls of his feet ,the ball at the base of the thumb ,he stood on the ball of his foot ,T
+341,move,N,"['3', '10']",it s your move  roll the dice ,if you roll a six  you can make two moves ,it s your move  roll the dice ,if you roll a six  you can make two move ,T
+342,slip,V,"['0', '3']",slip into something comfortable ,my grades are slipping ,slip into something comfortable ,my grade are slipping ,F
+343,flush,V,"['0', '2']",flush the meadows ,the sky flushed with rosy splendor ,flush the meadow ,the sky flushed with rosy splendor ,F
+344,comb,V,"['0', '0']",comb the wool ,comb your hair before dinner ,comb the wool ,comb your hair before dinner ,T
+345,walk,N,"['7', '0']",after the blizzard he shoveled the front walk ,walking is a healthy form of exercise ,after the blizzard he shoveled the front walk ,walking is a healthy form of exercise ,F
+346,blockage,N,"['3', '10']",there was a blockage in the sewer  so we called out the plumber ,we had to call a plumber to clear out the blockage in the drainpipe ,there wa a blockage in the sewer  so we called out the plumber ,we had to call a plumber to clear out the blockage in the drainpipe ,F
+347,collapse,V,"['0', '4']",collapse the music stand ,the school system is collapsing ,collapse the music stand ,the school system is collapsing ,F
+348,sleep,V,"['1', '2']",we sleep five people in each room ,this tent sleeps six people ,we sleep five people in each room ,this tent sleep six people ,T
+349,shape,N,"['6', '6']",geometry is the mathematical science of shape ,he could barely make out their shapes ,geometry is the mathematical science of shape ,he could barely make out their shape ,F
+350,leave,V,"['0', '1']",leave your child the nurse s care ,he left the decision to his deputy ,leave your child the nurse s care ,he left the decision to his deputy ,T
+351,aliyah,N,"['2', '6']",students making aliyah ,he was called on for an aliyah ,students making aliyah ,he wa called on for an aliyah ,F
+352,lay,V,"['1', '0']",to lay a tax on land ,lay a responsibility on someone ,to lay a tax on land ,lay a responsibility on someone ,T
+353,thing,N,"['1', '0']",a thing of the spirit ,things of the heart ,a thing of the spirit ,things of the heart ,T
+354,acquaintance,N,"['9', '9']",i know of the man  but have no acquaintance with him ,i have trouble remembering the names of all my acquaintances ,i know of the man  but have no acquaintance with him ,i have trouble remembering the name of all my acquaintance ,F
+355,sign,V,"['0', '4']",sign an intersection ,this road has been signed ,sign an intersection ,this road ha been signed ,T
+356,street,N,"['4', '2']",be careful crossing the street ,the whole street protested the absence of lights ,be careful crossing the street ,the whole street protested the absence of light ,F
+357,fuss,V,"['2', '1']",do nt fuss too much over the grandchildren  they are quite big now ,she fusses over her husband ,do nt fuss too much over the grandchild  they are quite big now ,she fuss over her husband ,F
+358,affair,N,"['5', '6']",it is none of your affair ,he used a hook  shaped affair with a long handle to unlock the car ,it is none of your affair ,he used a hook  shaped affair with a long handle to unlock the car ,T
+359,direct,V,"['0', '1']",direct your anger towards others  not towards yourself ,he directed all his energies into his dissertation ,direct your anger towards others  not towards yourself ,he directed all his energy into his dissertation ,F
+360,characterize,V,"['2', '4']",you can characterize his behavior as that of an egotist ,this poem can be characterized as a lament for a dead lover ,you can characterize his behavior a that of an egotist ,this poem can be characterized a a lament for a dead lover ,T
+361,strangle,V,"['5', '6']",the imperialist nation wanted to strangle the free trade between the two small countries ,a man in boston has been strangling several dozen prostitutes ,the imperialist nation wanted to strangle the free trade between the two small country ,a man in boston ha been strangling several dozen prostitute ,F
+362,board,N,"['1', '4']",the board has seven members ,he got out the board and set up the pieces ,the board ha seven member ,he got out the board and set up the piece ,F
+363,grip,N,"['8', '4']",in britain they call a bobby pin a grip ,they kept a firm grip on the two top priorities ,in britain they call a bobby pin a grip ,they kept a firm grip on the two top priority ,F
+364,swear,V,"['1', '3']",i swear by my grandmother s recipes ,before god i swear i am innocent ,i swear by my grandmother s recipe ,before god i swear i am innocent ,F
+365,gown,N,"['5', '5']",the relations between town and gown are always sensitive ,in the perennial town versus gown battles  townies win some violent battles  but the collegians are winning the war ,the relation between town and gown are always sensitive ,in the perennial town versus gown battle  towny win some violent battle  but the collegian are winning the war ,T
+366,triangulate,V,"['0', '5']",triangulate the piece of cardboard ,the land surveyor worked by triangulating the plot ,triangulate the piece of cardboard ,the land surveyor worked by triangulating the plot ,F
+367,snap,N,"['3', '3']",the infielder s snap and throw was a single motion ,children can manage snaps better than buttons ,the infielder s snap and throw wa a single motion ,children can manage snap better than button ,F
+368,say,V,"['4', '2']",what does the law say ,the clock says noon ,what doe the law say ,the clock say noon ,F
+369,aptness,N,"['1', '1']",the aptness of men to follow example ,the aptness of iron to rust ,the aptness of men to follow example ,the aptness of iron to rust ,T
+370,pay,N,"['3', '11']",he wasted his pay on drink ,many employers have rules designed to keep employees from comparing their pays ,he wasted his pay on drink ,many employer have rule designed to keep employee from comparing their pay ,T
+371,collapse,N,"['1', '6']",the collapse of the old star under its own gravity ,the roof is in danger of collapse ,the collapse of the old star under it own gravity ,the roof is in danger of collapse ,T
+372,go,N,"['3', '5']",it s my go ,i ll give it a go ,it s my go ,i ll give it a go ,F
+373,go,V,"['4', '2']",how did your interview go ,she was going that way anyway  so she offered to show him where it was ,how did your interview go ,she wa going that way anyway  so she offered to show him where it wa ,T
+374,shot,N,"['6', '5']",the nurse gave him a flu shot ,he tried to get unposed shots of his friends ,the nurse gave him a flu shot ,he tried to get unposed shot of his friend ,F
+375,mixture,N,"['3', '1']",he drank a mixture of beer and lemonade ,the mixture of sulphuric acid and water produces heat ,he drank a mixture of beer and lemonade ,the mixture of sulphuric acid and water produce heat ,F
+376,abuse,N,"['1', '6']",all abuse  whether physical  verbal  psychological or sexual  is bad ,the child showed signs of physical abuse ,all abuse  whether physical  verbal  psychological or sexual  is bad ,the child showed sign of physical abuse ,T
+377,breeze,N,"['1', '1']",the breeze rustled the papers on her desk ,the breeze was cooled by the lake ,the breeze rustled the paper on her desk ,the breeze wa cooled by the lake ,T
+378,floss,V,"['1', '2']",she flossed her teeth ,the hygienist flossed my teeth ,she flossed her teeth ,the hygienist flossed my teeth ,T
+379,refresher,N,"['5', '8']",the nap was a welcome refresher ,he stopped at the bar for a quick refresher ,the nap wa a welcome refresher ,he stopped at the bar for a quick refresher ,T
+380,violate,V,"['0', '2']",violate the sanctity of the church ,this sentence violates the rules of syntax ,violate the sanctity of the church ,this sentence violates the rule of syntax ,F
+381,barrage,N,"['1', '4']",a barrage of questions ,they laid down a barrage in front of the advancing troops ,a barrage of question ,they laid down a barrage in front of the advancing troop ,F
+382,work,N,"['7', '3']",the symphony was hailed as an ingenious work ,erosion is the work of wind or water over time ,the symphony wa hailed a an ingenious work ,erosion is the work of wind or water over time ,T
+383,transfer,N,"['1', '5']",the transfer of the music from record to tape suppressed much of the background noise ,the best student was a transfer from lsu ,the transfer of the music from record to tape suppressed much of the background noise ,the best student wa a transfer from lsu ,F
+384,homogenization,N,"['1', '3']",the homogenization of cream ,the network s homogenization of political news ,the homogenization of cream ,the network s homogenization of political news ,T
+385,intellect,N,"['4', '6']",he has a keen intellect ,some of the world s leading intellects were meeting there ,he ha a keen intellect ,some of the world s leading intellect were meeting there ,F
+386,toilet,N,"['4', '4']",he made his morning toilet and went to breakfast ,pensions are in the toilet ,he made his morning toilet and went to breakfast ,pensions are in the toilet ,F
+387,military,N,"['1', '6']",their military is the largest in the region ,he spent six years in the military ,their military is the largest in the region ,he spent six year in the military ,T
+388,leave,V,"['0', '1']",leave lots of time for the trip ,this leaves no room for improvement ,leave lot of time for the trip ,this leaf no room for improvement ,T
+389,scraping,N,"['4', '3']",all that bowing and scraping did not impress him ,they collected blood scrapings for analysis ,all that bowing and scraping did not impress him ,they collected blood scraping for analysis ,F
+390,breed,N,"['4', '1']",google represents a new breed of entrepreneurs ,a breed of tulip ,google represents a new breed of entrepreneur ,a breed of tulip ,F
+391,section,N,"['7', '0']",there are three synagogues in the jewish section ,sections from the left ventricle showed diseased tissue ,there are three synagogue in the jewish section ,sections from the left ventricle showed diseased tissue ,F
+392,pound,V,"['2', '0']",the locks pound the water of the canal ,pound the roots with a heavy flat stone ,the lock pound the water of the canal ,pound the root with a heavy flat stone ,F
+393,connection,N,"['8', '8']",the bus was late so he missed his connection at penn station and had to wait six hours for the next train ,the plane was late and he missed his connection in atlanta ,the bus wa late so he missed his connection at penn station and had to wait six hour for the next train ,the plane wa late and he missed his connection in atlanta ,T
+394,mechanism,N,"['1', '0']",a mechanism of social control ,mechanisms of communication ,a mechanism of social control ,mechanisms of communication ,T
+395,gargle,V,"['0', '3']",gargle with this liquid ,every morning he gargled a little cheap scotch ,gargle with this liquid ,every morning he gargled a little cheap scotch ,T
+396,bang,N,"['3', '4']",he got a bang on the head ,they got a great bang out of it ,he got a bang on the head ,they got a great bang out of it ,F
+397,activity,N,"['1', '4']",catalytic activity ,they avoided all recreational activity ,catalytic activity ,they avoided all recreational activity ,F
+398,terror,N,"['2', '3']",he used terror to make them confess ,he was the terror of the neighborhood ,he used terror to make them confess ,he wa the terror of the neighborhood ,F
+399,landing,N,"['5', '1']",the plane made a smooth landing ,his landing on his feet was catlike ,the plane made a smooth landing ,his landing on his foot wa catlike ,T
+400,flowage,N,"['4', '6']",rock fracture and rock flowage are different types of geological deformation ,many campsites were located near the flowage ,rock fracture and rock flowage are different type of geological deformation ,many campsite were located near the flowage ,F
+401,denizen,N,"['5', '7']",the bald eagle is a denizen of the northern part of the state ,the giant squid is one of many denizens of the deep ,the bald eagle is a denizen of the northern part of the state ,the giant squid is one of many denizen of the deep ,F
+402,sensation,N,"['4', '1']",the news caused a sensation ,a sensation of touch ,the news caused a sensation ,a sensation of touch ,F
+403,state,V,"['0', '0']",state your name ,state your opinion ,state your name ,state your opinion ,T
+404,foot,N,"['4', '5']",we went there by foot because we could not afford a taxi ,there is a lot of foot traffic on this street ,we went there by foot because we could not afford a taxi ,there is a lot of foot traffic on this street ,T
+405,dollar,N,"['4', '1']",he worships the almighty dollar ,the dollar coin has never been popular in the united states ,he worship the almighty dollar ,the dollar coin ha never been popular in the united states ,F
+406,view,N,"['6', '10']",they look the same in outward view ,the most desirable feature of the park are the beautiful views ,they look the same in outward view ,the most desirable feature of the park are the beautiful view ,F
+407,need,V,"['1', '1']",i need him to be nice ,i needed him to go ,i need him to be nice ,i needed him to go ,T
+408,role,N,"['5', '2']",my neighbor was the lead role in last year s village play ,play its role ,my neighbor wa the lead role in last year s village play ,play it role ,F
+409,policy,N,"['9', '3']",you should have read the small print on your policy ,it was a policy of retribution ,you should have read the small print on your policy ,it wa a policy of retribution ,F
+410,urgency,N,"['7', '7']",they departed hurriedly because of some great urgency in their affairs ,i ll be there  barring any urgencies ,they departed hurriedly because of some great urgency in their affair ,i ll be there  barring any urgency ,T
+411,book,N,"['5', '13']",i am reading a good book on economics ,he was frustrated because he could nt find anything about dinosaurs in the book ,i am reading a good book on economics ,he wa frustrated because he could nt find anything about dinosaur in the book ,T
+412,scrap,N,"['7', '8']",the unhappy couple got into a terrible scrap ,that car is nt good for anything but scrap ,the unhappy couple got into a terrible scrap ,that car is nt good for anything but scrap ,F
+413,mess,V,"['1', '3']",i mess with the wardroom officers ,the afternoon breeze messed up my hair ,i mess with the wardroom officer ,the afternoon breeze messed up my hair ,F
+414,recognition,N,"['7', '6']",territorial disputes were resolved in guatemala s recognition of belize in 1991 ,the partners were delighted with the recognition of their work ,territorial dispute were resolved in guatemala s recognition of belize in 1991 ,the partner were delighted with the recognition of their work ,F
+415,hitter,N,"['2', '3']",a hard hitter ,blacksmiths are good hitters ,a hard hitter ,blacksmiths are good hitter ,T
+416,affiliation,N,"['3', '2']",a valuable financial affiliation ,welcomed the affiliation of the research center with the university ,a valuable financial affiliation ,welcomed the affiliation of the research center with the university ,F
+417,mate,N,"['4', '9']",he s my best mate ,i m going to the pub with a few mates ,he s my best mate ,i m going to the pub with a few mate ,T
+418,middle,N,"['2', '3']",in the middle of the marathon  david collapsed from fatigue ,rain during the middle of april ,in the middle of the marathon  david collapsed from fatigue ,rain during the middle of april ,F
+419,diet,N,"['1', '6']",the diet of the giant panda consists mainly of bamboo ,he s been reading a steady diet of nonfiction for the last several years ,the diet of the giant panda consists mainly of bamboo ,he s been reading a steady diet of nonfiction for the last several year ,F
+420,induction,N,"['6', '1']",he was ordered to report for induction into the army ,the induction of an anesthetic state ,he wa ordered to report for induction into the army ,the induction of an anesthetic state ,F
+421,bull,V,"['1', '1']",to bull railroad bonds ,he bulled his way in ,to bull railroad bond ,he bulled his way in ,F
+422,impregnation,N,"['1', '1']",the impregnation of wood with preservative ,the impregnation  whatever it was  had turned the rock blue ,the impregnation of wood with preservative ,the impregnation  whatever it wa  had turned the rock blue ,F
+423,escalation,N,"['4', '4']",higher wages caused an escalation of prices ,there was a gradual escalation of hostilities ,higher wage caused an escalation of price ,there wa a gradual escalation of hostility ,T
+424,motivation,N,"['5', '1']",we did not understand his motivation ,his motivation was at a high level ,we did not understand his motivation ,his motivation wa at a high level ,F
+425,identity,N,"['2', '4']",a right identity  x  i  x for any x in the structure ,you can lose your identity when you join the army ,a right identity  x  i  x for any x in the structure ,you can lose your identity when you join the army ,F
+426,holiday,N,"['4', '6']",today is a wiccan holiday ,no mail is delivered on federal holidays ,today is a wiccan holiday ,no mail is delivered on federal holiday ,T
+427,fire,N,"['3', '3']",clinton directed his fire at the republican party ,there was a fire at the school last night and the whole place burned down ,clinton directed his fire at the republican party ,there wa a fire at the school last night and the whole place burned down ,F
+428,average,V,"['2', '8']",if you average 10  20 and 24  you get 18 ,the number of hours i work per work averages out to 40 ,if you average 10  20 and 24  you get 18 ,the number of hour i work per work average out to 40 ,F
+429,addition,N,"['1', '1']",the addition of a leap day every four years ,the addition of a bathroom was a major improvement ,the addition of a leap day every four year ,the addition of a bathroom wa a major improvement ,F
+430,segment,V,"['0', '0']",segment a compound word ,segment an orange ,segment a compound word ,segment an orange ,T
+431,shoot,V,"['0', '0']",shoot cloth ,shoot a star ,shoot cloth ,shoot a star ,F
+432,education,N,"['3', '0']",a girl s education was less important than a boy s ,education is a preparation for life ,a girl s education wa le important than a boy s ,education is a preparation for life ,T
+433,succession,N,"['1', '1']",a succession of failures ,a succession of stalls offering soft drinks ,a succession of failure ,a succession of stall offering soft drink ,T
+434,erase,V,"['3', '2']",the files will erase quickly ,the chalkboard erased easily ,the file will erase quickly ,the chalkboard erased easily ,T
+435,crush,V,"['1', '2']",to crush grapes ,the car crushed the toy ,to crush grape ,the car crushed the toy ,F
+436,figure,V,"['1', '4']",elections figure prominently in every government program ,how do the elections figure in the current pattern of internal politics ,elections figure prominently in every government program ,how do the election figure in the current pattern of internal politics ,T
+437,eliminate,V,"['2', '4']",let s eliminate the course on akkadian hieroglyphics ,this possibility can be eliminated from our consideration ,let s eliminate the course on akkadian hieroglyphic ,this possibility can be eliminated from our consideration ,F
+438,house,N,"['3', '1']",he counted the house ,the house applauded ,he counted the house ,the house applauded ,T
+439,cooperation,N,"['1', '6']",economic cooperation ,they agreed on a policy of cooperation ,economic cooperation ,they agreed on a policy of cooperation ,T
+440,indent,V,"['0', '0']",indent the documents ,indent the paragraphs of a letter ,indent the document ,indent the paragraph of a letter ,F
+441,militia,N,"['4', '10']",their troops were untrained militia ,congress shall have power to provide for calling forth the militia  united states constitution ,their troop were untrained militia ,congress shall have power to provide for calling forth the militia  united states constitution ,T
+442,probation,N,"['0', '4']",probation is part of the sentencing process ,you ll be on probation for first six months  after that  if you work out  they ll hire you permanently ,probation is part of the sentencing process ,you ll be on probation for first six month  after that  if you work out  they ll hire you permanently ,F
+443,bag,V,"['0', '1']",bag a few pheasants ,we bagged three deer yesterday ,bag a few pheasant ,we bagged three deer yesterday ,T
+444,herald,N,"['4', '4']",rouge dragon is a herald at the college of arms ,the chieftain had a herald who announced his arrival with a trumpet ,rouge dragon is a herald at the college of arms ,the chieftain had a herald who announced his arrival with a trumpet ,T
+445,detention,N,"['1', '1']",his detention was politically motivated ,the detention of tardy pupils ,his detention wa politically motivated ,the detention of tardy pupil ,F
+446,spread,V,"['2', '4']",the invaders spread their language all over the country ,a big oil spot spread across the water ,the invader spread their language all over the country ,a big oil spot spread across the water ,F
+447,accession,N,"['0', '5']",accession to such demands would set a dangerous precedent ,the librarian shelved the new accessions ,accession to such demand would set a dangerous precedent ,the librarian shelved the new accession ,F
+448,switch,V,"['0', '3']",switch to a different brand of beer ,i want to switch this red dress for a green one ,switch to a different brand of beer ,i want to switch this red dress for a green one ,F
+449,hang,V,"['2', '0']",let s hang this cute animal in the nursery ,hang wallpaper ,let s hang this cute animal in the nursery ,hang wallpaper ,T
+450,association,N,"['9', '5']",you can not be convicted of criminal guilt by association ,he joined the modern language association ,you can not be convicted of criminal guilt by association ,he joined the modern language association ,F
+451,drop,N,"['8', '4']",it was a miracle that he survived the drop from that height ,that was a long drop  but fortunately i did nt break any bones ,it wa a miracle that he survived the drop from that height ,that wa a long drop  but fortunately i did nt break any bone ,F
+452,precaution,N,"['10', '2']",he put an ice pack on the injury as a precaution ,to take precautions against risks of accident ,he put an ice pack on the injury a a precaution ,to take precaution against risk of accident ,T
+453,experience,N,"['2', '0']",a surprising experience ,experience is the best teacher ,a surprising experience ,experience is the best teacher ,F
+454,undo,V,"['0', '3']",undo the shoelace ,a single mistake undid the president and he had to resign ,undo the shoelace ,a single mistake undid the president and he had to resign ,F
+455,relief,N,"['4', '2']",he has been on relief for many years ,was the relief supposed to be protection from future harm or compensation for past injury ,he ha been on relief for many year ,was the relief supposed to be protection from future harm or compensation for past injury ,F
+456,adhocracy,N,"['8', '5']",the need for informational flexibility can lead to adhocracy ,the choice between bureaucracy and adhocracy represents a common dilemma ,the need for informational flexibility can lead to adhocracy ,the choice between bureaucracy and adhocracy represents a common dilemma ,T
+457,nightlife,N,"['4', '5']",in the summer the nightlife shifts to the dance clubs ,a futile search for intelligent nightlife ,in the summer the nightlife shift to the dance club ,a futile search for intelligent nightlife ,T
+458,pencil,N,"['2', '6']",an eyebrow pencil ,this artist s favorite medium is pencil ,an eyebrow pencil ,this artist s favorite medium is pencil ,F
+459,poster,N,"['3', '1']",i saw a poster for it on the side of a bus ,a poster advertised the coming attractions ,i saw a poster for it on the side of a bus ,a poster advertised the coming attraction ,T
+460,word,N,"['3', '10']",we had a word or two about it ,there was then a long discussion of whether to capitalize words like  east  ,we had a word or two about it ,there wa then a long discussion of whether to capitalize word like  east  ,T
+461,want,V,"['0', '2']",want the strength to go on living ,flood victims wanting food and shelter ,want the strength to go on living ,flood victim wanting food and shelter ,T
+462,gauntlet,N,"['3', '3']",threw down the gauntlet ,took up the gauntlet ,threw down the gauntlet ,took up the gauntlet ,T
+463,bull,N,"['3', '4']",he was a bull of a man ,he made a bad bull of the assignment ,he wa a bull of a man ,he made a bad bull of the assignment ,F
+464,flick,V,"['0', '1']",flick a piece of paper across the table ,he flicked his bic ,flick a piece of paper across the table ,he flicked his bic ,F
+465,treatment,N,"['1', '1']",his treatment of the race question is badly biased ,his treatment of space borrows from italian architecture ,his treatment of the race question is badly biased ,his treatment of space borrows from italian architecture ,F
+466,authority,N,"['6', '5']",she lost all her respect and authority after turning up drunk to the meeting ,this book is the final authority on the life of milton ,she lost all her respect and authority after turning up drunk to the meeting ,this book is the final authority on the life of milton ,F
+467,grunt,N,"['3', '5']",he went from grunt to chairman in six years ,infantrymen in vietnam were called grunts ,he went from grunt to chairman in six year ,infantrymen in vietnam were called grunt ,T
+468,toast,N,"['5', '5']",that toaster can make wonderful toasts ,i ate a piece of toast for breakfast ,that toaster can make wonderful toast ,i ate a piece of toast for breakfast ,T
+469,hour,N,"['3', '4']",we live an hour from the airport ,it was their finest hour ,we live an hour from the airport ,it wa their finest hour ,F
+470,dig,N,"['7', '3']",they set up camp next to the dig ,she takes a dig at me every chance she gets ,they set up camp next to the dig ,she take a dig at me every chance she get ,F
+471,dish,N,"['4', '6']",they served me a dish of rice ,we gave them a set of dishes for a wedding present ,they served me a dish of rice ,we gave them a set of dish for a wedding present ,F
+472,death,N,"['5', '5']",the animal died a painful death ,he seemed more content in death than he had ever been in life ,the animal died a painful death ,he seemed more content in death than he had ever been in life ,F
+473,upgrade,N,"['6', '9']",the power plant received a new upgrade ,with my phone company  i get a free upgrade every twelve months if i keep topping up 10 pounds a month ,the power plant received a new upgrade ,with my phone company  i get a free upgrade every twelve month if i keep topping up 10 pound a month ,T
+474,afflict,V,"['0', '2']",afflict with the plague ,she was afflicted by the death of her parents ,afflict with the plague ,she wa afflicted by the death of her parent ,F
+475,post,V,"['0', '2']",post a warning at the dump ,the newspaper posted him in timbuktu ,post a warning at the dump ,the newspaper posted him in timbuktu ,F
+476,group,N,"['3', '1']",there is a group of houses behind the hill ,a group of people gathered in front of the parliament to demonstrate against the prime minister s proposals ,there is a group of house behind the hill ,a group of people gathered in front of the parliament to demonstrate against the prime minister s proposal ,T
+477,pinnacle,V,"['0', '6']",pinnacle a pediment ,he did not want to be pinnacled ,pinnacle a pediment ,he did not want to be pinnacled ,F
+478,bite,V,"['4', '4']",gunny invariably tried to bite her ,as soon as you bite that sandwich  you ll know how good it is ,gunny invariably tried to bite her ,as soon a you bite that sandwich  you ll know how good it is ,T
+479,finalize,V,"['2', '11']",let s finalize the proposal ,as soon as we get the plane tickets  we ll finalize our reservations with the hotel ,let s finalize the proposal ,as soon a we get the plane ticket  we ll finalize our reservation with the hotel ,T
+480,lie,V,"['0', '1']",lie down on the bed until you feel better ,she lied when she told me she was only 29 ,lie down on the bed until you feel better ,she lied when she told me she wa only 29 ,F
+481,agency,N,"['3', '2']",she has free agency ,central intelligence agency ,she ha free agency ,central intelligence agency ,F
+482,string,N,"['1', '1']",a string of islands ,the strings played superlatively well ,a string of island ,the string played superlatively well ,F
+483,gnash,V,"['1', '1']",to gnash the air in fury ,to gnash a carpet ,to gnash the air in fury ,to gnash a carpet ,T
+484,twist,V,"['2', '0']",do nt twist my words ,twist the dough into a braid ,do nt twist my word ,twist the dough into a braid ,F
+485,invite,V,"['2', '2']",can i invite you for dinner on sunday night ,the organizers invite submissions of papers for the conference ,can i invite you for dinner on sunday night ,the organizer invite submission of paper for the conference ,F
+486,brush,V,"['0', '0']",brush aside the objections ,brush the dust from the jacket ,brush aside the objection ,brush the dust from the jacket ,T
+487,dad,N,"['5', '0']",he had nt seen his dad in years ,dad  happy father s day ,he had nt seen his dad in year ,dad  happy father s day ,T
+488,render,V,"['0', '6']",render the brick walls in the den ,the face of the child is rendered with much tenderness in this painting ,render the brick wall in the den ,the face of the child is rendered with much tenderness in this painting ,F
+489,kinship,N,"['2', '3']",anthropology s kinship with the humanities ,felt a deep kinship with the other students ,anthropology s kinship with the humanity ,felt a deep kinship with the other student ,T
+490,agency,N,"['3', '3']",the superintendence and agency of providence in the natural world  woodward ,the central intelligence agency ,the superintendence and agency of providence in the natural world  woodward ,the central intelligence agency ,F
+491,breakdown,N,"['8', '5']",after so much stress  he suffered a breakdown and simply gave up ,his warning came after the breakdown of talks in london ,after so much stress  he suffered a breakdown and simply gave up ,his warning came after the breakdown of talk in london ,F
+492,combust,V,"['1', '2']",we combust coal and other fossil fuels ,the professor combusted when the student did nt know the answer to a very elementary question ,we combust coal and other fossil fuel ,the professor combusted when the student did nt know the answer to a very elementary question ,F
+493,writing,N,"['0', '9']",writing was a form of therapy for him ,the idea occurs with increasing frequency in hemingway s writings ,writing wa a form of therapy for him ,the idea occurs with increasing frequency in hemingway s writing ,F
+494,inadequacy,N,"['5', '1']",juvenile offenses often reflect an inadequacy in the parents ,the inadequacy of unemployment benefits ,juvenile offense often reflect an inadequacy in the parent ,the inadequacy of unemployment benefit ,F
+495,step,N,"['2', '2']",always a step behind ,keep in step with the fashions ,always a step behind ,keep in step with the fashion ,T
+496,flip,V,"['2', '1']",i d flip if anyone broke my phone ,he flipped when he heard that he was accepted into princeton university ,i d flip if anyone broke my phone ,he flipped when he heard that he wa accepted into princeton university ,F
+497,reappearance,N,"['1', '1']",the reappearance of halley s comet ,his reappearance as hamlet has been long awaited ,the reappearance of halley s comet ,his reappearance a hamlet ha been long awaited ,F
+498,usage,N,"['1', '1']",english usage ,a usage borrowed from french ,english usage ,a usage borrowed from french ,T
+499,gig,N,"['3', '5']",they played a gig in new jersey ,our guitar player had another gig so we had to get a sub ,they played a gig in new jersey ,our guitar player had another gig so we had to get a sub ,T
+500,demon,N,"['3', '4']",she s a demon at math ,he worked like a demon to finish the job on time ,she s a demon at math ,he worked like a demon to finish the job on time ,T
+501,eccentricity,N,"['5', '7']",for an ellipse  the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi  major axis ,a circle is an ellipse with zero eccentricity ,for an ellipse  the eccentricity is the ratio of the distance from the center to a focus divided by the length of the semi  major axis ,a circle is an ellipse with zero eccentricity ,T
+502,allowance,N,"['2', '1']",my weekly allowance of two eggs ,travel allowance ,my weekly allowance of two egg ,travel allowance ,T
+503,transplant,V,"['5', '0']",these delicate plants do not transplant easily ,transplant the young rice plants ,these delicate plant do not transplant easily ,transplant the young rice plant ,F
+504,middle,N,"['5', '8']",i woke up in the middle of the night ,a whole is that which has beginning  middle  and end  aristotle ,i woke up in the middle of the night ,a whole is that which ha beginning  middle  and end  aristotle ,T
+505,spin,N,"['5', '4']",the campaign put a favorable spin on the story ,the skaters demonstrated their spins ,the campaign put a favorable spin on the story ,the skater demonstrated their spin ,F
+506,heel,V,"['0', '0']",heel a golf ball ,heel that dance ,heel a golf ball ,heel that dance ,F
+507,socialization,N,"['1', '4']",force socialization rarely creates strong friendships  but there are exceptions ,there was too much socialization with the enlisted men ,force socialization rarely creates strong friendship  but there are exception ,there wa too much socialization with the enlisted men ,T
+508,attend,V,"['2', '1']",i rarely attend services at my church ,she attends class regularly ,i rarely attend service at my church ,she attends class regularly ,T
+509,oppression,N,"['3', '1']",the tyrant s oppression of the people ,the oppression of the poor by the aristocracy was one cause of the french revolution ,the tyrant s oppression of the people ,the oppression of the poor by the aristocracy wa one cause of the french revolution ,T
+510,tap,V,"['0', '1']",tap a cask of wine ,he tapped a new barrel of beer ,tap a cask of wine ,he tapped a new barrel of beer ,T
+511,touch,V,"['12', '1']",please can i have a look  if i promise not to touch ,carrie touched his shoulder with the stick ,please can i have a look  if i promise not to touch ,carrie touched his shoulder with the stick ,T
+512,work,N,"['6', '1']",he was indebted to the pioneering work of john dewey ,the work of an active imagination ,he wa indebted to the pioneering work of john dewey ,the work of an active imagination ,T
+513,construction,N,"['5', '0']",the engineer marvelled at his construction ,construction is underway on the new bridge ,the engineer marvelled at his construction ,construction is underway on the new bridge ,F
+514,catch,V,"['10', '1']",i would love to have dinner but i have to catch a plane ,we caught something of his theory in the lecture ,i would love to have dinner but i have to catch a plane ,we caught something of his theory in the lecture ,F
+515,segregate,V,"['5', '2']",experiments show clearly that genes segregate ,many towns segregated into new counties ,experiments show clearly that gene segregate ,many town segregated into new county ,T
+516,border,N,"['6', '1']",the rug had a wide blue border ,the borders of the garden ,the rug had a wide blue border ,the border of the garden ,T
+517,scavenge,V,"['1', '1']",hyenas scavenge ,she scavenged the garbage cans for food ,hyenas scavenge ,she scavenged the garbage can for food ,F
+518,manipulation,N,"['1', '11']",his manipulation of his friends was scandalous ,he found that the new manager was known for his machiavellian manipulations in his last two positions ,his manipulation of his friend wa scandalous ,he found that the new manager wa known for his machiavellian manipulation in his last two position ,T
+519,flood,V,"['0', '3']",flood the market with tennis shoes ,the swollen river flooded the village ,flood the market with tennis shoe ,the swollen river flooded the village ,F
+520,steam,V,"['1', '7']",just steam the vegetables ,her indifference to his amorous advances really steamed the young man ,just steam the vegetable ,her indifference to his amorous advance really steamed the young man ,F
+521,foundation,N,"['3', '2']",he lacks the foundation necessary for advanced study ,the wikimedia foundation  inc is the parent organization of the wiktionary collaborative project ,he lack the foundation necessary for advanced study ,the wikimedia foundation  inc is the parent organization of the wiktionary collaborative project ,F
+522,twilight,N,"['9', '3']",i could just make out her face in the twilight ,he loved the twilight ,i could just make out her face in the twilight ,he loved the twilight ,F
+523,rank,N,"['7', '4']",the strike was supported by the union rank and file ,he rose from the ranks to become a colonel ,the strike wa supported by the union rank and file ,he rose from the rank to become a colonel ,T
+524,delight,N,"['5', '1']",the new car is a delight ,his delight to see her was obvious to all ,the new car is a delight ,his delight to see her wa obvious to all ,F
+525,path,N,"['1', '1']",the path of virtue ,our paths in life led us apart ,the path of virtue ,our path in life led u apart ,T
+526,get,V,"['4', '2']",the operator could nt get kobe because of the earthquake ,i ll get this finished by lunchtime ,the operator could nt get kobe because of the earthquake ,i ll get this finished by lunchtime ,F
+527,forwarding,N,"['1', '1']",the forwarding of resumes to the personnel department ,the forwarding of mail to a new address is done automatically ,the forwarding of resume to the personnel department ,the forwarding of mail to a new address is done automatically ,T
+528,fail,V,"['2', '4']",did i fail the test ,she studied hard but failed nevertheless ,did i fail the test ,she studied hard but failed nevertheless ,T
+529,dimple,N,"['4', '4']",the accident created a dimple in the hood of the car ,there are approximately 336 dimples on a golf ball ,the accident created a dimple in the hood of the car ,there are approximately 336 dimple on a golf ball ,T
+530,pity,N,"['3', '7']",it s a pity he could nt do it ,the blind are too often objects of pity ,it s a pity he could nt do it ,the blind are too often object of pity ,F
+531,rail,N,"['4', '3']",he was concerned with rail safety ,he traveled by rail ,he wa concerned with rail safety ,he traveled by rail ,T
+532,preempt,V,"['6', '6']",discussion of the emergency situation will preempt the lecture by the professor ,live broadcast of the presidential debate preempts the regular news hour ,discussion of the emergency situation will preempt the lecture by the professor ,live broadcast of the presidential debate preempt the regular news hour ,T
+533,assumption,N,"['2', '13']",the nazi assumption of power in 1934 ,he acquired all the company s assets for ten million dollars and the assumption of the company s debts ,the nazi assumption of power in 1934 ,he acquired all the company s asset for ten million dollar and the assumption of the company s debt ,T
+534,brother,N,"['6', '3']",i would like to thank the brother who just spoke ,none of his brothers would betray him ,i would like to thank the brother who just spoke ,none of his brother would betray him ,T
+535,recruit,V,"['0', '3']",recruit new soldiers ,the lab director recruited an able crew of assistants ,recruit new soldier ,the lab director recruited an able crew of assistant ,F
+536,upset,V,"['1', '3']",truman upset dewey in the 1948 us presidential election ,the foreign team upset the local team ,truman upset dewey in the 1948 us presidential election ,the foreign team upset the local team ,T
+537,show,N,"['1', '2']",a show of impatience ,a good show of looking interested ,a show of impatience ,a good show of looking interested ,T
+538,fondler,N,"['8', '2']",the woman charged that her jailer was a fondler ,not all fondlers are sexual perverts ,the woman charged that her jailer wa a fondler ,not all fondler are sexual pervert ,T
+539,body,N,"['2', '2']",the whole body filed out of the auditorium ,the student body ,the whole body filed out of the auditorium ,the student body ,T
+540,destroy,V,"['1', '2']",hooligans destroy unprovoked ,the fire destroyed the house ,hooligans destroy unprovoked ,the fire destroyed the house ,T
+541,confusion,N,"['4', '1']",the army retreated in confusion ,a confusion of impressions ,the army retreated in confusion ,a confusion of impression ,F
+542,stress,N,"['4', '3']",some people put the stress on the first syllable of  controversy   others put it on the second ,the intensity of stress is expressed in units of force divided by units of area ,some people put the stress on the first syllable of  controversy   others put it on the second ,the intensity of stress is expressed in unit of force divided by unit of area ,F
+543,inject,V,"['0', '5']",inject hydrogen into the balloon ,now lie back while we inject you with the anesthetic ,inject hydrogen into the balloon ,now lie back while we inject you with the anesthetic ,F
+544,custody,N,"['6', '4']",he was mistreated while in police custody ,he is in the custody of police ,he wa mistreated while in police custody ,he is in the custody of police ,T
+545,gesture,N,"['2', '1']",a political gesture ,a gesture of defiance ,a political gesture ,a gesture of defiance ,T
+546,cleat,V,"['0', '0']",cleat running shoes for better traction ,cleat a line ,cleat running shoe for better traction ,cleat a line ,F
+547,repair,V,"['4', '1']",one can never fully repair the suffering and losses of the jews in the third reich ,she repaired her tv set ,one can never fully repair the suffering and loss of the jews in the third reich ,she repaired her tv set ,F
+548,fold,V,"['0', '1']",fold up the newspaper ,tony folded the flaps open ,fold up the newspaper ,tony folded the flap open ,T
+549,piano,N,"['10', '9']",most of the works by frdric chopin are for the piano ,he can play  happy birthday  on the piano ,most of the work by frdric chopin are for the piano ,he can play  happy birthday  on the piano ,T
+550,decussate,V,"['2', '2']",the fibers decussate ,this nerve decussates the other ,the fiber decussate ,this nerve decussates the other ,T
+551,grind,V,"['0', '0']",grind lenses for glasses and cameras ,grind an axe ,grind lens for glass and camera ,grind an axe ,T
+552,wail,V,"['0', '1']",wail in self  pity ,she wailed with pain ,wail in self  pity ,she wailed with pain ,F
+553,form,V,"['8', '0']",by adding  ness   you can form a noun from an adjective ,form cylinders from the dough ,by adding  ness   you can form a noun from an adjective ,form cylinder from the dough ,F
+554,pronunciation,N,"['4', '1']",that is the correct pronunciation ,the pronunciation of chinese is difficult for foreigners ,that is the correct pronunciation ,the pronunciation of chinese is difficult for foreigner ,T
+555,criticism,N,"['4', '7']",the senator received severe criticism from his opponent ,the politician received a lot of public criticism for his controversial stance on the issue ,the senator received severe criticism from his opponent ,the politician received a lot of public criticism for his controversial stance on the issue ,F
+556,wrong,N,"['4', '7']",injustice is a heinous wrong ,he feels that you are in the wrong ,injustice is a heinous wrong ,he feel that you are in the wrong ,T
+557,fatigue,N,"['1', '5']",growing fatigue was apparent from the decline in the execution of their athletic skills ,he was hospitalized for extreme fatigue ,growing fatigue wa apparent from the decline in the execution of their athletic skill ,he wa hospitalized for extreme fatigue ,T
+558,cross,N,"['4', '3']",a mule is a cross between a horse and a donkey ,that is his cross to bear ,a mule is a cross between a horse and a donkey ,that is his cross to bear ,F
+559,handle,V,"['2', '4']",do nt handle the merchandise ,about his altar  handling holy things  john milton ,do nt handle the merchandise ,about his altar  handling holy thing  john milton ,T
+560,hail,V,"['0', '2']",hail a cab ,he was hailed as a hero ,hail a cab ,he wa hailed a a hero ,T
+561,stabilize,V,"['3', '2']",the country will stabilize after the next election ends ,the economy stabilized ,the country will stabilize after the next election end ,the economy stabilized ,T
+562,expect,V,"['1', '2']",i expect to receive wages ,we were expecting a visit from our relatives ,i expect to receive wage ,we were expecting a visit from our relative ,T
+563,shower,N,"['7', '2']",the game was interrupted by a brief shower ,a little shower of rose petals ,the game wa interrupted by a brief shower ,a little shower of rose petal ,F
+564,promulgation,N,"['1', '1']",the promulgation was written in english ,his promulgation of the policy proved to be premature ,the promulgation wa written in english ,his promulgation of the policy proved to be premature ,F
+565,hostility,N,"['5', '6']",he could not conceal his hostility ,he could no longer contain his hostility ,he could not conceal his hostility ,he could no longer contain his hostility ,F
+566,clap,V,"['4', '3']",the children began to clap in time with the music ,the big bird clapped its wings ,the child began to clap in time with the music ,the big bird clapped it wing ,F
+567,clime,N,"['4', '12']",plants from a cold clime travel best in winter ,after working hard all of his life  max retired to warmer climes in florida ,plants from a cold clime travel best in winter ,after working hard all of his life  max retired to warmer clime in florida ,T
+568,deal,N,"['1', '3']",a deal of trouble ,he made a deal with the devil ,a deal of trouble ,he made a deal with the devil ,F
+569,listen,V,"['1', '3']",please listen carefully as i explain ,i like to listen to music ,please listen carefully a i explain ,i like to listen to music ,T
+570,party,N,"['1', '3']",the party of the first part ,he planned a party to celebrate bastille day ,the party of the first part ,he planned a party to celebrate bastille day ,F
+571,section,N,"['10', '4']",the history of this work is discussed in the next section ,a graduate student taught sections for the professor s lecture course ,the history of this work is discussed in the next section ,a graduate student taught section for the professor s lecture course ,F
+572,conserve,V,"['0', '2']",conserve your energy for the ascent to the summit ,mom always conserved the strawberries we grew in the backyard ,conserve your energy for the ascent to the summit ,mom always conserved the strawberry we grew in the backyard ,F
+573,joy,N,"['1', '1']",a joy to behold ,the joys and demands of parenthood ,a joy to behold ,the joy and demand of parenthood ,F
+574,create,V,"['0', '0']",create a poem ,create one a peer ,create a poem ,create one a peer ,F
+575,surface,N,"['10', '11']",it was not what it appeared to be on the surface ,the cloth had a pattern of red dots on a white surface ,it wa not what it appeared to be on the surface ,the cloth had a pattern of red dot on a white surface ,F
+576,setting,N,"['2', '3']",a place setting of sterling flatware ,he changed the setting on the thermostat ,a place setting of sterling flatware ,he changed the setting on the thermostat ,F
+577,bane,N,"['1', '1']",the bane of my existence ,the bane of my life ,the bane of my existence ,the bane of my life ,T
+578,license,N,"['2', '3']",the intolerable license with which the newspapers break  the rules of decorum  edmund burke ,when liberty becomes license dictatorship is near  will durant ,the intolerable license with which the newspaper break  the rule of decorum  edmund burke ,when liberty becomes license dictatorship is near  will durant ,T
+579,bend,V,"['4', '0']",the stick does not bend ,bend your knees ,the stick doe not bend ,bend your knee ,F
+580,act,V,"['3', '2']",she wants to act lady macbeth  but she is too young for the role ,i started acting at the age of eleven in my local theatre ,she want to act lady macbeth  but she is too young for the role ,i started acting at the age of eleven in my local theatre ,T
+581,worship,V,"['1', '2']",they worship in the traditional manner ,many hindus worship shiva ,they worship in the traditional manner ,many hindus worship shiva ,F
+582,minute,N,"['2', '4']",wait a minute  i m not ready yet ,it only takes a minute ,wait a minute  i m not ready yet ,it only take a minute ,T
+583,glow,N,"['1', '1']",a glow of regret ,the glow of new love ,a glow of regret ,the glow of new love ,T
+584,prohibition,N,"['5', '9']",they were restrained by a prohibition in their charter ,in 1920 the 18th amendment to the constitution established prohibition in the us ,they were restrained by a prohibition in their charter ,in 1920 the 18th amendment to the constitution established prohibition in the us ,F
+585,near,V,"['2', '2']",they are nearing the coast ,the ship nears the land ,they are nearing the coast ,the ship nears the land ,T
+586,distance,N,"['6', '1']",i could see it in the distance ,the distance from new york to chicago ,i could see it in the distance ,the distance from new york to chicago ,F
+587,strand,N,"['1', '6']",a strand of pearls ,he tried to pick up the strands of his former life ,a strand of pearl ,he tried to pick up the strand of his former life ,F
+588,activity,N,"['3', '3']",the level of activity declines with age ,his sphere of activity ,the level of activity decline with age ,his sphere of activity ,F
+589,delay,N,"['6', '1']",instant replay caused too long a delay ,the delay before the echo of a sound ,instant replay caused too long a delay ,the delay before the echo of a sound ,F
+590,dip,V,"['0', '1']",dip the brush into the paint ,she dipped her knee ,dip the brush into the paint ,she dipped her knee ,F
+591,bye,N,"['3', '5']",he had a bye in the first round ,craig s crew plays the bye next week ,he had a bye in the first round ,craig s crew play the bye next week ,T
+592,subsidy,N,"['1', '6']",a subsidy for research in artificial intelligence ,manufacturing firms are supported by government subsidies in some countries ,a subsidy for research in artificial intelligence ,manufacturing firm are supported by government subsidy in some country ,T
+593,fuel,V,"['0', '0']",fuel aircraft  ships  and cars ,fuel the debate on creationism ,fuel aircraft  ship  and car ,fuel the debate on creationism ,F
+594,club,N,"['1', '7']",each club played six home games with teams in its own division ,he played the drums at a jazz club ,each club played six home game with team in it own division ,he played the drum at a jazz club ,F
+595,longevity,N,"['2', '1']",had unusual longevity in the company ,her longevity as a star ,had unusual longevity in the company ,her longevity a a star ,T
+596,appreciate,V,"['1', '2']",i appreciate your efforts ,the yen appreciated again ,i appreciate your effort ,the yen appreciated again ,F
+597,preponderance,N,"['1', '1']",the preponderance of good over evil ,the preponderance of wealth and power ,the preponderance of good over evil ,the preponderance of wealth and power ,T
+598,youth,N,"['0', '1']",youth everywhere rises in revolt ,her youth and beauty is what attracted him to her ,youth everywhere rise in revolt ,her youth and beauty is what attracted him to her ,F
+599,probity,N,"['5', '6']",in a world where financial probity may not be widespread ,he enjoys an exaggerated reputation for probity ,in a world where financial probity may not be widespread ,he enjoys an exaggerated reputation for probity ,T
+600,explanation,N,"['1', '1']",the explanation was very simple ,the explanation was long and drawn  out ,the explanation wa very simple ,the explanation wa long and drawn  out ,T
+601,inject,V,"['0', '1']",inject heroin ,he injected new life into the performance ,inject heroin ,he injected new life into the performance ,F
+602,force,N,"['1', '2']",a force out was recorded on the scorecard ,a public force is necessary to give security to the rights of citizens ,a force out wa recorded on the scorecard ,a public force is necessary to give security to the right of citizen ,F
+603,preserve,V,"['0', '1']",preserve the peace in the family ,to preserve silence ,preserve the peace in the family ,to preserve silence ,T
+604,restraint,N,"['7', '6']",the room was simply decorated with great restraint ,the car did not have proper restraints fitted ,the room wa simply decorated with great restraint ,the car did not have proper restraint fitted ,F
+605,log,N,"['3', '2']",they kept a log of all transmission by the radio station ,an email log ,they kept a log of all transmission by the radio station ,an email log ,T
+606,cost,V,"['2', '3']",these shoes cost  100 ,the bill will cost them 500 million dollars ,these shoe cost  100 ,the bill will cost them 500 million dollar ,T
+607,professionalization,N,"['1', '1']",the professionalization of warfare ,the professionalization of american sports ,the professionalization of warfare ,the professionalization of american sport ,T
+608,pocket,V,"['7', '1']",lydia put the change in her left pocket ,lydia pocketed the change ,lydia put the change in her left pocket ,lydia pocketed the change ,T
+609,stab,N,"['3', '3']",he took a stab at forecasting ,she felt a stab of excitement ,he took a stab at forecasting ,she felt a stab of excitement ,F
+610,roll,N,"['1', '3']",the roll of a ball ,look at the roll of the waves ,the roll of a ball ,look at the roll of the wave ,T
+611,property,N,"['5', '4']",he is a man of property ,that hat is my property ,he is a man of property ,that hat is my property ,T
+612,success,N,"['1', '5']",his success in the marathon was unexpected ,the election was a remarkable success for the whigs ,his success in the marathon wa unexpected ,the election wa a remarkable success for the whigs ,F
+613,sexualize,V,"['2', '3']",some languages sexualize all nouns and do not have a neuter gender ,the god was sexualized and married to another god ,some language sexualize all noun and do not have a neuter gender ,the god wa sexualized and married to another god ,T
+614,wish,N,"['4', '4']",it was his last wish ,they should respect the wishes of the people ,it wa his last wish ,they should respect the wish of the people ,T
+615,sultriness,N,"['1', '1']",the sultriness of her look was unmistakable ,the sultriness of lust was in the air ,the sultriness of her look wa unmistakable ,the sultriness of lust wa in the air ,T
+616,crisis,N,"['6', '2']",they went bankrupt during the economic crisis ,after the crisis the patient either dies or gets better ,they went bankrupt during the economic crisis ,after the crisis the patient either dy or get better ,F
+617,reality,N,"['1', '1']",the reality of his situation slowly dawned on him ,the reality of the crash scene on tv dawned upon him only when he saw the victim was no actor but his friend ,the reality of his situation slowly dawned on him ,the reality of the crash scene on tv dawned upon him only when he saw the victim wa no actor but his friend ,T
+618,defense,N,"['4', '5']",they died in the defense of stalingrad ,they were developed for the defense program ,they died in the defense of stalingrad ,they were developed for the defense program ,T
+619,forbid,V,"['1', '2']",i forbid you to call me late at night ,the rules forbid it ,i forbid you to call me late at night ,the rule forbid it ,T
+620,update,V,"['3', '1']",i need to update my records to take account of the most recent transaction ,we updated the kitchen in the old house ,i need to update my record to take account of the most recent transaction ,we updated the kitchen in the old house ,T
+621,sound,N,"['5', '6']",the main body of the sound ran parallel to the coast ,he strained to hear the faint sounds ,the main body of the sound ran parallel to the coast ,he strained to hear the faint sound ,F
+622,system,N,"['5', '6']",that language has a complex system for indicating gender ,they have to operate under a system they oppose ,that language ha a complex system for indicating gender ,they have to operate under a system they oppose ,T
+623,easiness,N,"['2', '3']",the very easiness of the deed held her back ,there was an easiness between them ,the very easiness of the deed held her back ,there wa an easiness between them ,F
+624,mire,V,"['1', '5']",to mire a horse or wagon ,our people should not be mired in the past ,to mire a horse or wagon ,our people should not be mired in the past ,F
+625,spend,V,"['0', '1']",spend money ,he spends far more on gambling than he does on living proper ,spend money ,he spends far more on gambling than he doe on living proper ,T
+626,reverence,N,"['6', '2']",the french treat food with gentle reverence ,the chinese reverence for the dead ,the french treat food with gentle reverence ,the chinese reverence for the dead ,T
+627,buy,V,"['5', '2']", 50 wo nt even buy a dress ,fmc has bought 565 , 50 wo nt even buy a dress ,fmc ha bought 565 ,T
+628,instruction,N,"['2', '0']",students receive instruction in the arts and sciences ,instruction will be provided on how to handle difficult customers ,students receive instruction in the art and science ,instruction will be provided on how to handle difficult customer ,T
+629,extension,N,"['7', '1']",the dancer was praised for her uncanny extension ,good extension comes from a combination of training and native ability ,the dancer wa praised for her uncanny extension ,good extension come from a combination of training and native ability ,T
+630,believe,V,"['3', '1']",we did nt believe his stories from the war ,i believed his report ,we did nt believe his story from the war ,i believed his report ,T
+631,heritage,N,"['3', '1']",the world s heritage of knowledge ,a heritage of freedom ,the world s heritage of knowledge ,a heritage of freedom ,F
+632,caller,N,"['4', '4']", who s the caller ,there were so many callers that he finally disconnected the telephone , who s the caller ,there were so many caller that he finally disconnected the telephone ,T
+633,base,N,"['9', '0']",he told the painter that he wanted a yellow base with just a hint of green ,bases include oxides and hydroxides of metals and ammonia ,he told the painter that he wanted a yellow base with just a hint of green ,bases include oxide and hydroxide of metal and ammonia ,F
+634,power,N,"['5', '6']",he needed a lot of power to hit the ball out of the stadium ,the mysterious presence of an evil power ,he needed a lot of power to hit the ball out of the stadium ,the mysterious presence of an evil power ,F
+635,portmanteau,N,"['8', '5']",` brunch  is a well  known portmanteau ,` motel  is a portmanteau word made by combining ` motor  and ` hotel  ,` brunch  is a well  known portmanteau ,` motel  is a portmanteau word made by combining ` motor  and ` hotel  ,T
+636,promise,V,"['1', '1']",i promise you my best effort ,i promised somebody my time ,i promise you my best effort ,i promised somebody my time ,T
+637,pierce,V,"['1', '2']",to pierce a mystery ,the path pierced the jungle ,to pierce a mystery ,the path pierced the jungle ,F
