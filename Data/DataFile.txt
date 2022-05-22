@@ -1,0 +1,1 @@
+This folder contains trained Machine Learning models and the extracted pickle files which contain word embeddings
