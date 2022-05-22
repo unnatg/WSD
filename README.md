@@ -7,17 +7,17 @@ The major purpose of WSD technique is to accurately understand the meaning of a 
 ## Step1: Import all the required libraries
 
 ## Step2: Generate word embeddings, glove as well as ROBERTA  
-	- Lemmatize sentence1 and sentence2  
-	- Drop all the irrelevant columns except Ambigous_Word, Sentence1, Sentence2. Store it as X  
-	- Convert the labels column into 1 or 0 and store it as y.  
-	- Perform train_test_split()  
-	- Store the data in the pickle file.  
-	- Store the whole data (X, y) in the pickle file.  
+		- Lemmatize sentence1 and sentence2  
+		- Drop all the irrelevant columns except Ambigous_Word, Sentence1, Sentence2. Store it as X  
+		- Convert the labels column into 1 or 0 and store it as y.  
+		- Perform train_test_split()  
+		- Store the data in the pickle file.  
+		- Store the whole data (X, y) in the pickle file.  
 
-Load the data from the pickle file  
+### Load the data from the pickle file  
 	Pickle file format:
-		data = {
-            # Training Data
+		data = {  
+            # Training Data  
             "training_sentences1": training_sentences1,  
             "training_embeddings1": self.training_embeddings1,  
             "training_sentences2": training_sentences2,  
@@ -25,7 +25,7 @@ Load the data from the pickle file
             "train_ambiguous_word": training_ambiguous_words,  
             "train_ambiguous_word_embeddings": self.training_ambiguous_word_embeddings,  
             "training_labels": self.y_train,  
-            # Testing Data  
+            # Testing Data    
             "testing_sentences1": testing_sentences1,  
             "testing_embeddings1": self.testing_embeddings1,  
             "testing_sentences2": testing_sentences2,  
@@ -33,7 +33,7 @@ Load the data from the pickle file
             "test_ambiguous_word": testing_ambiguous_words,  
             "test_ambiguous_word_embeddings": self.testing_ambiguous_word_embeddings,  
             "testing_labels": self.y_test,  
-            # Complete Data  
+            # Complete Data   
             "sentences1": sentences1,  
             "sentences_embeddings1": self.embeddings1,  
             "sentences2": sentences2,  
